@@ -1,0 +1,1001 @@
+disease_id,disease_name,gene_id,gene_symbol,gene_name,association_score
+EFO_0000685,rheumatoid arthritis,ENSG00000105397,TYK2,tyrosine kinase 2,0.7517870740478155
+EFO_0000685,rheumatoid arthritis,ENSG00000113302,IL12B,interleukin 12B,0.7327522713447271
+EFO_0000685,rheumatoid arthritis,ENSG00000160712,IL6R,interleukin 6 receptor,0.732460258806829
+EFO_0000685,rheumatoid arthritis,ENSG00000232810,TNF,tumor necrosis factor,0.7166256679552229
+EFO_0000685,rheumatoid arthritis,ENSG00000056972,TRAF3IP2,TRAF3 interacting protein 2,0.7138603345449056
+EFO_0000685,rheumatoid arthritis,ENSG00000240972,MIF,macrophage migration inhibitory factor,0.6976727531688605
+EFO_0000685,rheumatoid arthritis,ENSG00000096968,JAK2,Janus kinase 2,0.6934326771029184
+EFO_0000685,rheumatoid arthritis,ENSG00000162434,JAK1,Janus kinase 1,0.6903808968126417
+EFO_0000685,rheumatoid arthritis,ENSG00000159339,PADI4,peptidyl arginine deiminase 4,0.6892861448435421
+EFO_0000685,rheumatoid arthritis,ENSG00000134242,PTPN22,protein tyrosine phosphatase non-receptor type 22,0.6798611028661302
+EFO_0000685,rheumatoid arthritis,ENSG00000128604,IRF5,interferon regulatory factor 5,0.6358812440641249
+EFO_0000685,rheumatoid arthritis,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.6336887634143262
+EFO_0000685,rheumatoid arthritis,ENSG00000110944,IL23A,interleukin 23 subunit alpha,0.6300030146144067
+EFO_0000685,rheumatoid arthritis,ENSG00000112115,IL17A,interleukin 17A,0.6280826302236754
+EFO_0000685,rheumatoid arthritis,ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.6264814767537767
+EFO_0000685,rheumatoid arthritis,ENSG00000156738,MS4A1,membrane spanning 4-domains A1,0.6250888195859142
+EFO_0000685,rheumatoid arthritis,ENSG00000196664,TLR7,toll like receptor 7,0.6245484325350175
+EFO_0000685,rheumatoid arthritis,ENSG00000160856,FCRL3,Fc receptor like 3,0.6218361059371833
+EFO_0000685,rheumatoid arthritis,ENSG00000239732,TLR9,toll like receptor 9,0.6213991990562341
+EFO_0000685,rheumatoid arthritis,ENSG00000121594,CD80,CD80 molecule,0.6191239482171799
+EFO_0000685,rheumatoid arthritis,ENSG00000105639,JAK3,Janus kinase 3,0.618253481113395
+EFO_0000685,rheumatoid arthritis,ENSG00000114013,CD86,CD86 molecule,0.6161573463641837
+EFO_0000685,rheumatoid arthritis,ENSG00000138378,STAT4,signal transducer and activator of transcription 4,0.6161202016568202
+EFO_0000685,rheumatoid arthritis,ENSG00000228716,DHFR,dihydrofolate reductase,0.6158311309876353
+EFO_0000685,rheumatoid arthritis,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.6148225967431268
+EFO_0000685,rheumatoid arthritis,ENSG00000102967,DHODH,dihydroorotate dehydrogenase (quinone),0.6042376874912411
+EFO_0000685,rheumatoid arthritis,ENSG00000065989,PDE4A,phosphodiesterase 4A,0.6029676362900136
+EFO_0000685,rheumatoid arthritis,ENSG00000012779,ALOX5,arachidonate 5-lipoxygenase,0.5985788962488053
+EFO_0000685,rheumatoid arthritis,ENSG00000101017,CD40,CD40 molecule,0.5962519902089006
+EFO_0000685,rheumatoid arthritis,ENSG00000168811,IL12A,interleukin 12A,0.5957720807663239
+EFO_0000685,rheumatoid arthritis,ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase,0.5883364964594279
+EFO_0000685,rheumatoid arthritis,ENSG00000184588,PDE4B,phosphodiesterase 4B,0.5858600262623511
+EFO_0000685,rheumatoid arthritis,ENSG00000113448,PDE4D,phosphodiesterase 4D,0.5847102521114367
+EFO_0000685,rheumatoid arthritis,ENSG00000115594,IL1R1,interleukin 1 receptor type 1,0.5844594049872879
+EFO_0000685,rheumatoid arthritis,ENSG00000105650,PDE4C,phosphodiesterase 4C,0.5812916384556032
+EFO_0000685,rheumatoid arthritis,ENSG00000105675,ATP4A,ATPase H+/K+ transporting subunit alpha,0.5712728628396865
+EFO_0000685,rheumatoid arthritis,ENSG00000186009,ATP4B,ATPase H+/K+ transporting subunit beta,0.5659659144872785
+EFO_0000685,rheumatoid arthritis,ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.5649666163240571
+EFO_0000685,rheumatoid arthritis,ENSG00000160185,UBASH3A,ubiquitin associated and SH3 domain containing A,0.562137546096471
+EFO_0000685,rheumatoid arthritis,ENSG00000163599,CTLA4,cytotoxic T-lymphocyte associated protein 4,0.5611647414297727
+EFO_0000685,rheumatoid arthritis,ENSG00000118503,TNFAIP3,TNF alpha induced protein 3,0.5558650762688293
+EFO_0000685,rheumatoid arthritis,ENSG00000162594,IL23R,interleukin 23 receptor,0.5529640257006492
+EFO_0000685,rheumatoid arthritis,ENSG00000146232,NFKBIE,NFKB inhibitor epsilon,0.5511897913666702
+EFO_0000685,rheumatoid arthritis,ENSG00000177663,IL17RA,interleukin 17 receptor A,0.5509270779694464
+EFO_0000685,rheumatoid arthritis,ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.5479349883045191
+EFO_0000685,rheumatoid arthritis,ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.5477362107320141
+EFO_0000685,rheumatoid arthritis,ENSG00000136573,BLK,"BLK proto-oncogene, Src family tyrosine kinase",0.545702674166517
+EFO_0000685,rheumatoid arthritis,ENSG00000112486,CCR6,C-C motif chemokine receptor 6,0.5372407703946744
+EFO_0000685,rheumatoid arthritis,ENSG00000164307,ERAP1,endoplasmic reticulum aminopeptidase 1,0.5357434047504386
+EFO_0000685,rheumatoid arthritis,ENSG00000107485,GATA3,GATA binding protein 3,0.5351869404892992
+EFO_0000685,rheumatoid arthritis,ENSG00000137077,CCL21,C-C motif chemokine ligand 21,0.5347851319125727
+EFO_0000685,rheumatoid arthritis,ENSG00000213626,LBH,LBH regulator of Wnt signaling pathway,0.5341764346000591
+EFO_0000685,rheumatoid arthritis,ENSG00000136634,IL10,interleukin 10,0.5310891758062284
+EFO_0000685,rheumatoid arthritis,ENSG00000139531,SUOX,sulfite oxidase,0.5263829391320443
+EFO_0000685,rheumatoid arthritis,ENSG00000159128,IFNGR2,interferon gamma receptor 2,0.5253016483201024
+EFO_0000685,rheumatoid arthritis,ENSG00000050628,PTGER3,prostaglandin E receptor 3,0.5242298873734277
+EFO_0000685,rheumatoid arthritis,ENSG00000175354,PTPN2,protein tyrosine phosphatase non-receptor type 2,0.5227746452171602
+EFO_0000685,rheumatoid arthritis,ENSG00000159216,RUNX1,RUNX family transcription factor 1,0.5222894891710923
+EFO_0000685,rheumatoid arthritis,ENSG00000112149,CD83,CD83 molecule,0.5217322583563333
+EFO_0000685,rheumatoid arthritis,ENSG00000056558,TRAF1,TNF receptor associated factor 1,0.5172455644562155
+EFO_0000685,rheumatoid arthritis,ENSG00000136244,IL6,interleukin 6,0.5150147295558882
+EFO_0000685,rheumatoid arthritis,ENSG00000144218,AFF3,ALF transcription elongation factor 3,0.5122414548071849
+EFO_0000685,rheumatoid arthritis,ENSG00000164691,TAGAP,T cell activation RhoGTPase activating protein,0.5119704135159183
+EFO_0000685,rheumatoid arthritis,ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.5107228020975911
+EFO_0000685,rheumatoid arthritis,ENSG00000145901,TNIP1,TNFAIP3 interacting protein 1,0.5096305295831335
+EFO_0000685,rheumatoid arthritis,ENSG00000181751,MACIR,macrophage immunometabolism regulator,0.5096300673330755
+EFO_0000685,rheumatoid arthritis,ENSG00000162924,REL,"REL proto-oncogene, NF-kB subunit",0.5066385059124601
+EFO_0000685,rheumatoid arthritis,ENSG00000163508,EOMES,eomesodermin,0.5035918461237012
+EFO_0000685,rheumatoid arthritis,ENSG00000150347,ARID5B,AT-rich interaction domain 5B,0.5027069919896892
+EFO_0000685,rheumatoid arthritis,ENSG00000117115,PADI2,peptidyl arginine deiminase 2,0.5009948961582128
+EFO_0000685,rheumatoid arthritis,ENSG00000137265,IRF4,interferon regulatory factor 4,0.4971338932332336
+EFO_0000685,rheumatoid arthritis,ENSG00000164512,ANKRD55,ankyrin repeat domain 55,0.49629901064264814
+EFO_0000685,rheumatoid arthritis,ENSG00000010030,ETV7,ETS variant transcription factor 7,0.4899060706331081
+EFO_0000685,rheumatoid arthritis,ENSG00000143226,FCGR2A,Fc gamma receptor IIa,0.4895201715494628
+EFO_0000685,rheumatoid arthritis,ENSG00000116824,CD2,CD2 molecule,0.48906137405923755
+EFO_0000685,rheumatoid arthritis,ENSG00000081985,IL12RB2,interleukin 12 receptor subunit beta 2,0.4878014776900964
+EFO_0000685,rheumatoid arthritis,ENSG00000182010,RTKN2,rhotekin 2,0.4858969430931468
+EFO_0000685,rheumatoid arthritis,ENSG00000153094,BCL2L11,BCL2 like 11,0.4838390787037745
+EFO_0000685,rheumatoid arthritis,ENSG00000100321,SYNGR1,synaptogyrin 1,0.48288603584609047
+EFO_0000685,rheumatoid arthritis,ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.4796783603464134
+EFO_0000685,rheumatoid arthritis,ENSG00000116793,PHTF1,putative homeodomain transcription factor 1,0.47942145844420475
+EFO_0000685,rheumatoid arthritis,ENSG00000096395,MLN,motilin,0.47638376412985955
+EFO_0000685,rheumatoid arthritis,ENSG00000117586,TNFSF4,TNF superfamily member 4,0.4761265610933118
+EFO_0000685,rheumatoid arthritis,ENSG00000150637,CD226,CD226 molecule,0.47580424460955156
+EFO_0000685,rheumatoid arthritis,ENSG00000154822,PLCL2,phospholipase C like 2,0.47543726636194134
+EFO_0000685,rheumatoid arthritis,ENSG00000160224,AIRE,autoimmune regulator,0.47484518109892593
+EFO_0000685,rheumatoid arthritis,ENSG00000134954,ETS1,"ETS proto-oncogene 1, transcription factor",0.47049929022058495
+EFO_0000685,rheumatoid arthritis,ENSG00000109684,CLNK,cytokine dependent hematopoietic cell linker,0.4686628824192124
+EFO_0000685,rheumatoid arthritis,ENSG00000007171,NOS2,nitric oxide synthase 2,0.46316450237611617
+EFO_0000685,rheumatoid arthritis,ENSG00000113749,HRH2,histamine receptor H2,0.46284743745721607
+EFO_0000685,rheumatoid arthritis,ENSG00000067182,TNFRSF1A,TNF receptor superfamily member 1A,0.4539066254245617
+EFO_0000685,rheumatoid arthritis,ENSG00000122025,FLT3,fms related receptor tyrosine kinase 3,0.45226827669760855
+EFO_0000685,rheumatoid arthritis,ENSG00000128815,WDFY4,WDFY family member 4,0.4522558157599866
+EFO_0000685,rheumatoid arthritis,ENSG00000159110,IFNAR2,interferon alpha and beta receptor subunit 2,0.4504810295295941
+EFO_0000685,rheumatoid arthritis,ENSG00000183621,ZNF438,zinc finger protein 438,0.45045223398871526
+EFO_0000685,rheumatoid arthritis,ENSG00000119919,NKX2-3,NK2 homeobox 3,0.4502420633330779
+EFO_0000685,rheumatoid arthritis,ENSG00000115267,IFIH1,interferon induced with helicase C domain 1,0.44905455076459966
+EFO_0000685,rheumatoid arthritis,ENSG00000116701,NCF2,neutrophil cytosolic factor 2,0.44688856088993417
+EFO_0000685,rheumatoid arthritis,ENSG00000169194,IL13,interleukin 13,0.4465196347718121
+EFO_0000685,rheumatoid arthritis,ENSG00000020633,RUNX3,RUNX family transcription factor 3,0.4450492862675962
+EFO_0000384,Crohn's disease,ENSG00000167207,NOD2,nucleotide binding oligomerization domain containing 2,0.7919492792537685
+EFO_0000384,Crohn's disease,ENSG00000113302,IL12B,interleukin 12B,0.7365088818648415
+EFO_0000384,Crohn's disease,ENSG00000115232,ITGA4,integrin subunit alpha 4,0.7134551179424343
+EFO_0000384,Crohn's disease,ENSG00000136634,IL10,interleukin 10,0.6410390331158248
+EFO_0000384,Crohn's disease,ENSG00000232810,TNF,tumor necrosis factor,0.6281275314545243
+EFO_0000384,Crohn's disease,ENSG00000110944,IL23A,interleukin 23 subunit alpha,0.6194479309193135
+EFO_0000384,Crohn's disease,ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.609647384048717
+EFO_0000384,Crohn's disease,ENSG00000139626,ITGB7,integrin subunit beta 7,0.6096393992006773
+EFO_0000384,Crohn's disease,ENSG00000168811,IL12A,interleukin 12A,0.5993736836799385
+EFO_0000384,Crohn's disease,ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase,0.5783258766328798
+EFO_0000384,Crohn's disease,ENSG00000162594,IL23R,interleukin 23 receptor,0.5721797981155075
+EFO_0000384,Crohn's disease,ENSG00000096968,JAK2,Janus kinase 2,0.5708750232979785
+EFO_0000384,Crohn's disease,ENSG00000150093,ITGB1,integrin subunit beta 1,0.5591373601997298
+EFO_0000384,Crohn's disease,ENSG00000105397,TYK2,tyrosine kinase 2,0.5574716870799337
+EFO_0000384,Crohn's disease,ENSG00000178623,GPR35,G protein-coupled receptor 35,0.550701846833033
+EFO_0000384,Crohn's disease,ENSG00000179630,LACC1,laccase domain containing 1,0.5430405281584292
+EFO_0000384,Crohn's disease,ENSG00000181634,TNFSF15,TNF superfamily member 15,0.5392401806246548
+EFO_0000384,Crohn's disease,ENSG00000134242,PTPN22,protein tyrosine phosphatase non-receptor type 22,0.5223601075097348
+EFO_0000384,Crohn's disease,ENSG00000159128,IFNGR2,interferon gamma receptor 2,0.5190456540368779
+EFO_0000384,Crohn's disease,ENSG00000168610,STAT3,signal transducer and activator of transcription 3,0.5147155014951923
+EFO_0000384,Crohn's disease,ENSG00000085978,ATG16L1,autophagy related 16 like 1,0.5146929747649561
+EFO_0000384,Crohn's disease,ENSG00000119919,NKX2-3,NK2 homeobox 3,0.5141217031609185
+EFO_0000384,Crohn's disease,ENSG00000100906,NFKBIA,NFKB inhibitor alpha,0.5059528561649972
+EFO_0000384,Crohn's disease,ENSG00000182095,TNRC18,trinucleotide repeat containing 18,0.5030499293020004
+EFO_0000384,Crohn's disease,ENSG00000100368,CSF2RB,colony stimulating factor 2 receptor subunit beta,0.502557582716025
+EFO_0000384,Crohn's disease,ENSG00000164691,TAGAP,T cell activation RhoGTPase activating protein,0.5002882761748212
+EFO_0000384,Crohn's disease,ENSG00000173531,MST1,macrophage stimulating 1,0.4959488865141692
+EFO_0000384,Crohn's disease,ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.4941325075674449
+EFO_0000384,Crohn's disease,ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.4919611821772875
+EFO_0000384,Crohn's disease,ENSG00000175354,PTPN2,protein tyrosine phosphatase non-receptor type 2,0.4842303218248541
+EFO_0000384,Crohn's disease,ENSG00000079263,SP140,SP140 nuclear body protein,0.4811263565322617
+EFO_0000384,Crohn's disease,ENSG00000131507,NDFIP1,Nedd4 family interacting protein 1,0.4793271648424862
+EFO_0000384,Crohn's disease,ENSG00000081985,IL12RB2,interleukin 12 receptor subunit beta 2,0.47850167456577525
+EFO_0000384,Crohn's disease,ENSG00000177311,ZBTB38,zinc finger and BTB domain containing 38,0.4773589483738006
+EFO_0000384,Crohn's disease,ENSG00000237693,IRGM,immunity related GTPase M,0.4762478356958728
+EFO_0000384,Crohn's disease,ENSG00000020633,RUNX3,RUNX family transcription factor 3,0.47450970519000574
+EFO_0000384,Crohn's disease,ENSG00000101017,CD40,CD40 molecule,0.47415173505737934
+EFO_0000384,Crohn's disease,ENSG00000145996,CDKAL1,CDKAL1 threonylcarbamoyladenosine tRNA methylthiotransferase,0.4734364953766275
+EFO_0000384,Crohn's disease,ENSG00000075426,FOSL2,"FOS like 2, AP-1 transcription factor subunit",0.4709221808334816
+EFO_0000384,Crohn's disease,ENSG00000153814,JAZF1,JAZF zinc finger 1,0.47067915361229856
+EFO_0000384,Crohn's disease,ENSG00000130876,SLC7A10,solute carrier family 7 member 10,0.46922359532556246
+EFO_0000384,Crohn's disease,ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.4673024644371515
+EFO_0000384,Crohn's disease,ENSG00000132274,TRIM22,tripartite motif containing 22,0.46659848046785096
+EFO_0000384,Crohn's disease,ENSG00000163362,INAVA,innate immunity activator,0.46589226861546135
+EFO_0000384,Crohn's disease,ENSG00000140030,GPR65,G protein-coupled receptor 65,0.46440474046901653
+EFO_0000384,Crohn's disease,ENSG00000185811,IKZF1,IKAROS family zinc finger 1,0.4513020248143454
+EFO_0000384,Crohn's disease,ENSG00000151773,CCDC122,coiled-coil domain containing 122,0.45093873872189827
+EFO_0000384,Crohn's disease,ENSG00000128604,IRF5,interferon regulatory factor 5,0.45043317353682827
+EFO_0000384,Crohn's disease,ENSG00000162927,PUS10,pseudouridine synthase 10,0.44794869616528094
+EFO_0000384,Crohn's disease,ENSG00000205592,MUC19,"mucin 19, oligomeric (gene/pseudogene)",0.4468357735419996
+EFO_0000384,Crohn's disease,ENSG00000108219,TSPAN14,tetraspanin 14,0.4467584688305008
+EFO_0000384,Crohn's disease,ENSG00000108691,CCL2,C-C motif chemokine ligand 2,0.4462572950580141
+EFO_0000384,Crohn's disease,ENSG00000105963,ADAP1,ArfGAP with dual PH domains 1,0.44556822062071083
+EFO_0000384,Crohn's disease,ENSG00000100365,NCF4,neutrophil cytosolic factor 4,0.4422220852335276
+EFO_0000384,Crohn's disease,ENSG00000115607,IL18RAP,interleukin 18 receptor accessory protein,0.4415248583993047
+EFO_0000384,Crohn's disease,ENSG00000166949,SMAD3,SMAD family member 3,0.44051966780359764
+EFO_0000384,Crohn's disease,ENSG00000138684,IL21,interleukin 21,0.4398519882077057
+EFO_0000384,Crohn's disease,ENSG00000125347,IRF1,interferon regulatory factor 1,0.4395191593921806
+EFO_0000384,Crohn's disease,ENSG00000146374,RSPO3,R-spondin 3,0.43862020644144234
+EFO_0000384,Crohn's disease,ENSG00000171522,PTGER4,prostaglandin E receptor 4,0.43861379976702664
+EFO_0000384,Crohn's disease,ENSG00000170345,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",0.43779084759329084
+EFO_0000384,Crohn's disease,ENSG00000057657,PRDM1,PR/SET domain 1,0.4372657884834012
+EFO_0000384,Crohn's disease,ENSG00000115009,CCL20,C-C motif chemokine ligand 20,0.4356401921109261
+EFO_0000384,Crohn's disease,ENSG00000054983,GALC,galactosylceramidase,0.4349154534470921
+EFO_0000384,Crohn's disease,ENSG00000108094,CUL2,cullin 2,0.4321272396640172
+EFO_0000384,Crohn's disease,ENSG00000121281,ADCY7,adenylate cyclase 7,0.43123482681421205
+EFO_0000384,Crohn's disease,ENSG00000153064,BANK1,B cell scaffold protein with ankyrin repeats 1,0.43119125476147907
+EFO_0000384,Crohn's disease,ENSG00000138821,SLC39A8,solute carrier family 39 member 8,0.4305548534743951
+EFO_0000384,Crohn's disease,ENSG00000138166,DUSP5,dual specificity phosphatase 5,0.43033819143154306
+EFO_0000384,Crohn's disease,ENSG00000213066,CEP43,centrosomal protein 43,0.4281763510448624
+EFO_0000384,Crohn's disease,ENSG00000167208,SNX20,sorting nexin 20,0.4280905858470995
+EFO_0000384,Crohn's disease,ENSG00000100311,PDGFB,platelet derived growth factor subunit B,0.42265031252046026
+EFO_0000384,Crohn's disease,ENSG00000164512,ANKRD55,ankyrin repeat domain 55,0.4218531454054773
+EFO_0000384,Crohn's disease,ENSG00000175164,ABO,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",0.4214163199756236
+EFO_0000384,Crohn's disease,ENSG00000203963,C1orf141,chromosome 1 open reading frame 141,0.41997474024296144
+EFO_0000384,Crohn's disease,ENSG00000120659,TNFSF11,TNF superfamily member 11,0.41914398379464807
+EFO_0000384,Crohn's disease,ENSG00000124203,ZNF831,zinc finger protein 831,0.41882291566745516
+EFO_0000384,Crohn's disease,ENSG00000107968,MAP3K8,mitogen-activated protein kinase kinase kinase 8,0.41839984535886654
+EFO_0000384,Crohn's disease,ENSG00000138031,ADCY3,adenylate cyclase 3,0.41592501554007394
+EFO_0000384,Crohn's disease,ENSG00000185650,ZFP36L1,ZFP36 like 1 zinc finger CCCH-type,0.41456589885773293
+EFO_0000384,Crohn's disease,ENSG00000120690,ELF1,E74 like ETS transcription factor 1,0.4134290898156869
+EFO_0000384,Crohn's disease,ENSG00000011485,PPP5C,protein phosphatase 5 catalytic subunit,0.41188433283608517
+EFO_0000384,Crohn's disease,ENSG00000213047,DENND1B,DENN domain containing 1B,0.41084525164621716
+EFO_0000384,Crohn's disease,ENSG00000142224,IL19,interleukin 19,0.4100369710426864
+EFO_0000384,Crohn's disease,ENSG00000197272,IL27,interleukin 27,0.40963715551754365
+EFO_0000384,Crohn's disease,ENSG00000083799,CYLD,CYLD lysine 63 deubiquitinase,0.4083572714796176
+EFO_0000384,Crohn's disease,ENSG00000105639,JAK3,Janus kinase 3,0.40750529393310553
+EFO_0000384,Crohn's disease,ENSG00000187796,CARD9,caspase recruitment domain family member 9,0.40737850156018723
+EFO_0000384,Crohn's disease,ENSG00000157978,LDLRAP1,low density lipoprotein receptor adaptor protein 1,0.407221057335037
+EFO_0000384,Crohn's disease,ENSG00000023445,BIRC3,baculoviral IAP repeat containing 3,0.40715168144870256
+EFO_0000384,Crohn's disease,ENSG00000081237,PTPRC,protein tyrosine phosphatase receptor type C,0.40681326494290104
+EFO_0000384,Crohn's disease,ENSG00000184730,APOBR,apolipoprotein B receptor,0.4063801265993028
+EFO_0000384,Crohn's disease,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.40559839491148886
+EFO_0000384,Crohn's disease,ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.4051407297567413
+EFO_0000384,Crohn's disease,ENSG00000026297,RNASET2,ribonuclease T2,0.4039581306328984
+EFO_0000384,Crohn's disease,ENSG00000116288,PARK7,Parkinsonism associated deglycase,0.40334235918314093
+EFO_0000384,Crohn's disease,ENSG00000162434,JAK1,Janus kinase 1,0.40240567549794803
+EFO_0000384,Crohn's disease,ENSG00000153094,BCL2L11,BCL2 like 11,0.40142698463820325
+EFO_0000384,Crohn's disease,ENSG00000155849,ELMO1,engulfment and cell motility 1,0.399378626910482
+EFO_0000384,Crohn's disease,ENSG00000181915,ADO,2-aminoethanethiol dioxygenase,0.39924869900515286
+EFO_0000305,breast carcinoma,ENSG00000139618,BRCA2,BRCA2 DNA repair associated,0.8922986142916786
+EFO_0000305,breast carcinoma,ENSG00000012048,BRCA1,BRCA1 DNA repair associated,0.8764704892241493
+EFO_0000305,breast carcinoma,ENSG00000083093,PALB2,partner and localizer of BRCA2,0.8667261691459882
+EFO_0000305,breast carcinoma,ENSG00000141510,TP53,tumor protein p53,0.8612588185410128
+EFO_0000305,breast carcinoma,ENSG00000121879,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",0.8502744011940842
+EFO_0000305,breast carcinoma,ENSG00000183765,CHEK2,checkpoint kinase 2,0.8399890690567838
+EFO_0000305,breast carcinoma,ENSG00000149311,ATM,ATM serine/threonine kinase,0.8345597386743143
+EFO_0000305,breast carcinoma,ENSG00000108384,RAD51C,RAD51 paralog C,0.8262744167206524
+EFO_0000305,breast carcinoma,ENSG00000039068,CDH1,cadherin 1,0.8230639755247329
+EFO_0000305,breast carcinoma,ENSG00000141736,ERBB2,erb-b2 receptor tyrosine kinase 2,0.8223814259934649
+EFO_0000305,breast carcinoma,ENSG00000091831,ESR1,estrogen receptor 1,0.8163022388965846
+EFO_0000305,breast carcinoma,ENSG00000142208,AKT1,AKT serine/threonine kinase 1,0.8134591142336899
+EFO_0000305,breast carcinoma,ENSG00000171862,PTEN,phosphatase and tensin homolog,0.7853327594154401
+EFO_0000305,breast carcinoma,ENSG00000185379,RAD51D,RAD51 paralog D,0.7818012382771501
+EFO_0000305,breast carcinoma,ENSG00000136492,BRIP1,BRCA1 interacting DNA helicase 1,0.7804323350943698
+EFO_0000305,breast carcinoma,ENSG00000095015,MAP3K1,mitogen-activated protein kinase kinase kinase 1,0.7707359800380718
+EFO_0000305,breast carcinoma,ENSG00000066468,FGFR2,fibroblast growth factor receptor 2,0.7565450001683128
+EFO_0000305,breast carcinoma,ENSG00000133703,KRAS,"KRAS proto-oncogene, GTPase",0.7540554046229405
+EFO_0000305,breast carcinoma,ENSG00000135111,TBX3,T-box transcription factor 3,0.7501161922749838
+EFO_0000305,breast carcinoma,ENSG00000107485,GATA3,GATA binding protein 3,0.7387347697187747
+EFO_0000305,breast carcinoma,ENSG00000138376,BARD1,BRCA1 associated RING domain 1,0.7361115938792868
+EFO_0000305,breast carcinoma,ENSG00000129514,FOXA1,forkhead box A1,0.7194107727936054
+EFO_0000305,breast carcinoma,ENSG00000065559,MAP2K4,mitogen-activated protein kinase kinase 4,0.7160699069424243
+EFO_0000305,breast carcinoma,ENSG00000055609,KMT2C,lysine methyltransferase 2C,0.7112037939386504
+EFO_0000305,breast carcinoma,ENSG00000141027,NCOR1,nuclear receptor corepressor 1,0.7017943838506553
+EFO_0000305,breast carcinoma,ENSG00000062822,POLD1,"DNA polymerase delta 1, catalytic subunit",0.6953871756903869
+EFO_0000305,breast carcinoma,ENSG00000196712,NF1,neurofibromin 1,0.6926596624506949
+EFO_0000305,breast carcinoma,ENSG00000170836,PPM1D,"protein phosphatase, Mg2+/Mn2+ dependent 1D",0.6870425654301464
+EFO_0000305,breast carcinoma,ENSG00000067955,CBFB,core-binding factor subunit beta,0.6868755414024771
+EFO_0000305,breast carcinoma,ENSG00000178568,ERBB4,erb-b2 receptor tyrosine kinase 4,0.6857424925589484
+EFO_0000305,breast carcinoma,ENSG00000117713,ARID1A,AT-rich interaction domain 1A,0.6844913332808921
+EFO_0000305,breast carcinoma,ENSG00000182185,RAD51B,RAD51 paralog B,0.6838970592558453
+EFO_0000305,breast carcinoma,ENSG00000105810,CDK6,cyclin dependent kinase 6,0.6834953056320341
+EFO_0000305,breast carcinoma,ENSG00000138081,FBXO11,F-box protein 11,0.6812605898944911
+EFO_0000305,breast carcinoma,ENSG00000135446,CDK4,cyclin dependent kinase 4,0.6779710688997118
+EFO_0000305,breast carcinoma,ENSG00000177084,POLE,"DNA polymerase epsilon, catalytic subunit",0.6776205351153637
+EFO_0000305,breast carcinoma,ENSG00000164362,TERT,telomerase reverse transcriptase,0.6763471653408774
+EFO_0000305,breast carcinoma,ENSG00000166323,C11orf65,chromosome 11 open reading frame 65,0.6703006513119626
+EFO_0000305,breast carcinoma,ENSG00000095002,MSH2,mutS homolog 2,0.6690847424105669
+EFO_0000305,breast carcinoma,ENSG00000116062,MSH6,mutS homolog 6,0.6668074135451616
+EFO_0000305,breast carcinoma,ENSG00000076242,MLH1,mutL homolog 1,0.6646032136054204
+EFO_0000305,breast carcinoma,ENSG00000164330,EBF1,EBF transcription factor 1,0.6640101415303786
+EFO_0000305,breast carcinoma,ENSG00000114861,FOXP1,forkhead box P1,0.664003712081995
+EFO_0000305,breast carcinoma,ENSG00000134250,NOTCH2,notch receptor 2,0.6591403826438416
+EFO_0000305,breast carcinoma,ENSG00000257923,CUX1,cut like homeobox 1,0.6571350423581578
+EFO_0000305,breast carcinoma,ENSG00000113522,RAD50,RAD50 double strand break repair protein,0.6561572579393372
+EFO_0000305,breast carcinoma,ENSG00000104320,NBN,nibrin,0.6531699693543899
+EFO_0000305,breast carcinoma,ENSG00000152217,SETBP1,SET binding protein 1,0.6524170941332461
+EFO_0000305,breast carcinoma,ENSG00000146648,EGFR,epidermal growth factor receptor,0.650920174459096
+EFO_0000305,breast carcinoma,ENSG00000134371,CDC73,cell division cycle 73,0.6497521256796108
+EFO_0000305,breast carcinoma,ENSG00000139687,RB1,RB transcriptional corepressor 1,0.6492926557552737
+EFO_0000305,breast carcinoma,ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,0.6440903303159997
+EFO_0000305,breast carcinoma,ENSG00000078403,MLLT10,MLLT10 histone lysine methyltransferase DOT1L cofactor,0.6435870947013588
+EFO_0000305,breast carcinoma,ENSG00000122512,PMS2,"PMS1 homolog 2, mismatch repair system component",0.6435230888992151
+EFO_0000305,breast carcinoma,ENSG00000115524,SF3B1,splicing factor 3b subunit 1,0.6430433972969383
+EFO_0000305,breast carcinoma,ENSG00000144554,FANCD2,FA complementation group D2,0.6423705957936043
+EFO_0000305,breast carcinoma,ENSG00000110092,CCND1,cyclin D1,0.6406187318846517
+EFO_0000305,breast carcinoma,ENSG00000148737,TCF7L2,transcription factor 7 like 2,0.6399396987739462
+EFO_0000305,breast carcinoma,ENSG00000286522,H3C2,H3 clustered histone 2,0.6393583576300466
+EFO_0000305,breast carcinoma,ENSG00000169083,AR,androgen receptor,0.6336802551404385
+EFO_0000305,breast carcinoma,ENSG00000113360,DROSHA,drosha ribonuclease III,0.6333484953332625
+EFO_0000305,breast carcinoma,ENSG00000132781,MUTYH,mutY DNA glycosylase,0.6326860576861748
+EFO_0000305,breast carcinoma,ENSG00000168769,TET2,tet methylcytosine dioxygenase 2,0.6309584438496159
+EFO_0000305,breast carcinoma,ENSG00000137869,CYP19A1,cytochrome P450 family 19 subfamily A member 1,0.6306389766551831
+EFO_0000305,breast carcinoma,ENSG00000137285,TUBB2B,tubulin beta 2B class IIb,0.6250536392259827
+EFO_0000305,breast carcinoma,ENSG00000111276,CDKN1B,cyclin dependent kinase inhibitor 1B,0.619745583110161
+EFO_0000305,breast carcinoma,ENSG00000196588,MRTFA,myocardin related transcription factor A,0.6156032415183634
+EFO_0000305,breast carcinoma,ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.6115469101410049
+EFO_0000305,breast carcinoma,ENSG00000120217,CD274,CD274 molecule,0.6110148363840527
+EFO_0000305,breast carcinoma,ENSG00000140538,NTRK3,neurotrophic receptor tyrosine kinase 3,0.6105102907235184
+EFO_0000305,breast carcinoma,ENSG00000178691,SUZ12,SUZ12 polycomb repressive complex 2 subunit,0.61032082115209
+EFO_0000305,breast carcinoma,ENSG00000258947,TUBB3,tubulin beta 3 class III,0.607825072954262
+EFO_0000305,breast carcinoma,ENSG00000137267,TUBB2A,tubulin beta 2A class IIa,0.605575754987024
+EFO_0000305,breast carcinoma,ENSG00000127824,TUBA4A,tubulin alpha 4a,0.6054696979386434
+EFO_0000305,breast carcinoma,ENSG00000197299,BLM,BLM RecQ like helicase,0.605079569727751
+EFO_0000305,breast carcinoma,ENSG00000123416,TUBA1B,tubulin alpha 1b,0.6047205132201406
+EFO_0000305,breast carcinoma,ENSG00000167553,TUBA1C,tubulin alpha 1c,0.603970833402429
+EFO_0000305,breast carcinoma,ENSG00000196230,TUBB,tubulin beta class I,0.602865486183063
+EFO_0000305,breast carcinoma,ENSG00000176014,TUBB6,tubulin beta 6 class V,0.6018092825236345
+EFO_0000305,breast carcinoma,ENSG00000167552,TUBA1A,tubulin alpha 1a,0.6015934293917256
+EFO_0000305,breast carcinoma,ENSG00000136826,KLF4,KLF transcription factor 4,0.6015296850889855
+EFO_0000305,breast carcinoma,ENSG00000188229,TUBB4B,tubulin beta 4B class IVb,0.6014864785322199
+EFO_0000305,breast carcinoma,ENSG00000152086,TUBA3E,tubulin alpha 3e,0.6012661972287235
+EFO_0000305,breast carcinoma,ENSG00000198033,TUBA3C,tubulin alpha 3c,0.6003422475920117
+EFO_0000305,breast carcinoma,ENSG00000261456,TUBB8,tubulin beta 8 class VIII,0.6003422475920117
+EFO_0000305,breast carcinoma,ENSG00000101162,TUBB1,tubulin beta 1 class VI,0.6003422475920117
+EFO_0000305,breast carcinoma,ENSG00000104833,TUBB4A,tubulin beta 4A class IVa,0.6003422475920117
+EFO_0000305,breast carcinoma,ENSG00000140836,ZFHX3,zinc finger homeobox 3,0.5983621924239368
+EFO_0000305,breast carcinoma,ENSG00000135679,MDM2,MDM2 proto-oncogene,0.5982118727968595
+EFO_0000305,breast carcinoma,ENSG00000176890,TYMS,thymidylate synthetase,0.597159151352728
+EFO_0000305,breast carcinoma,ENSG00000049618,ARID1B,AT-rich interaction domain 1B,0.5949831161196193
+EFO_0000305,breast carcinoma,ENSG00000169184,MN1,"MN1 proto-oncogene, transcriptional regulator",0.5935680808054439
+EFO_0000305,breast carcinoma,ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.5935055036491779
+EFO_0000305,breast carcinoma,ENSG00000168702,LRP1B,LDL receptor related protein 1B,0.5888904233220417
+EFO_0000305,breast carcinoma,ENSG00000198900,TOP1,DNA topoisomerase I,0.5851930703229704
+EFO_0000305,breast carcinoma,ENSG00000100345,MYH9,myosin heavy chain 9,0.5844727456948797
+EFO_0000305,breast carcinoma,ENSG00000196092,PAX5,paired box 5,0.5843418457046908
+EFO_0000305,breast carcinoma,ENSG00000196159,FAT4,FAT atypical cadherin 4,0.5832703463285542
+EFO_0000305,breast carcinoma,ENSG00000198625,MDM4,MDM4 regulator of p53,0.5827824832112544
+EFO_0000305,breast carcinoma,ENSG00000187098,MITF,melanocyte inducing transcription factor,0.5825246468559163
+EFO_0003777,heart disease,ENSG00000183873,SCN5A,sodium voltage-gated channel alpha subunit 5,0.9284428010247312
+EFO_0003777,heart disease,ENSG00000092054,MYH7,myosin heavy chain 7,0.9273955816112432
+EFO_0003777,heart disease,ENSG00000155657,TTN,titin,0.9206904845911258
+EFO_0003777,heart disease,ENSG00000055118,KCNH2,potassium voltage-gated channel subfamily H member 2,0.9168225924734228
+EFO_0003777,heart disease,ENSG00000160789,LMNA,lamin A/C,0.9162686938916421
+EFO_0003777,heart disease,ENSG00000134571,MYBPC3,myosin binding protein C3,0.9124294227158091
+EFO_0003777,heart disease,ENSG00000157764,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",0.907696219846274
+EFO_0003777,heart disease,ENSG00000171298,GAA,alpha glucosidase,0.9043479426965546
+EFO_0003777,heart disease,ENSG00000132155,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",0.9007342110287483
+EFO_0003777,heart disease,ENSG00000179295,PTPN11,protein tyrosine phosphatase non-receptor type 11,0.899876507320093
+EFO_0003777,heart disease,ENSG00000133703,KRAS,"KRAS proto-oncogene, GTPase",0.8994990906641721
+EFO_0003777,heart disease,ENSG00000175084,DES,desmin,0.8992677390408625
+EFO_0003777,heart disease,ENSG00000183072,NKX2-5,NK2 homeobox 5,0.897474536527773
+EFO_0003777,heart disease,ENSG00000096696,DSP,desmoplakin,0.8925035018566018
+EFO_0003777,heart disease,ENSG00000129991,TNNI3,"troponin I3, cardiac type",0.8895673683105091
+EFO_0003777,heart disease,ENSG00000174775,HRAS,"HRas proto-oncogene, GTPase",0.8875926789290454
+EFO_0003777,heart disease,ENSG00000118194,TNNT2,"troponin T2, cardiac type",0.8858697966694525
+EFO_0003777,heart disease,ENSG00000198626,RYR2,ryanodine receptor 2,0.8858408550213003
+EFO_0003777,heart disease,ENSG00000106617,PRKAG2,protein kinase AMP-activated non-catalytic subunit gamma 2,0.884741096517921
+EFO_0003777,heart disease,ENSG00000128591,FLNC,filamin C,0.8824042433825039
+EFO_0003777,heart disease,ENSG00000169032,MAP2K1,mitogen-activated protein kinase kinase 1,0.8818217294081537
+EFO_0003777,heart disease,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.8817663464531025
+EFO_0003777,heart disease,ENSG00000123700,KCNJ2,potassium inwardly rectifying channel subfamily J member 2,0.8799213404740781
+EFO_0003777,heart disease,ENSG00000072778,ACADVL,acyl-CoA dehydrogenase very long chain,0.8788873511228087
+EFO_0003777,heart disease,ENSG00000197616,MYH6,myosin heavy chain 6,0.877998014403726
+EFO_0003777,heart disease,ENSG00000159251,ACTC1,actin alpha cardiac muscle 1,0.8754505566635873
+EFO_0003777,heart disease,ENSG00000053918,KCNQ1,potassium voltage-gated channel subfamily Q member 1,0.8745744965332992
+EFO_0003777,heart disease,ENSG00000171316,CHD7,chromodomain helicase DNA binding protein 7,0.8737863845503373
+EFO_0003777,heart disease,ENSG00000213281,NRAS,"NRAS proto-oncogene, GTPase",0.8731885517809552
+EFO_0003777,heart disease,ENSG00000126934,MAP2K2,mitogen-activated protein kinase kinase 2,0.8718119429224594
+EFO_0003777,heart disease,ENSG00000101384,JAG1,jagged canonical Notch ligand 1,0.871664212751496
+EFO_0003777,heart disease,ENSG00000057294,PKP2,plakophilin 2,0.8716397885837532
+EFO_0003777,heart disease,ENSG00000115904,SOS1,SOS Ras/Rac guanine nucleotide exchange factor 1,0.8716124088042151
+EFO_0003777,heart disease,ENSG00000136574,GATA4,GATA binding protein 4,0.8714352160404584
+EFO_0003777,heart disease,ENSG00000203867,RBM20,RNA binding motif protein 20,0.8714231617786391
+EFO_0003777,heart disease,ENSG00000046604,DSG2,desmoglein 2,0.8706695635032089
+EFO_0003777,heart disease,ENSG00000197375,SLC22A5,solute carrier family 22 member 5,0.8685552004597564
+EFO_0003777,heart disease,ENSG00000138622,HCN4,hyperpolarization activated cyclic nucleotide gated potassium channel 4,0.8665352086606943
+EFO_0003777,heart disease,ENSG00000151929,BAG3,BAG cochaperone 3,0.8655998763902618
+EFO_0003777,heart disease,ENSG00000091262,ABCC6,ATP binding cassette subfamily C member 6,0.8646351043845615
+EFO_0003777,heart disease,ENSG00000099949,LZTR1,leucine zipper like post translational regulator 1,0.8636281360282396
+EFO_0003777,heart disease,ENSG00000171503,ETFDH,electron transfer flavoprotein dehydrogenase,0.8633604668578692
+EFO_0003777,heart disease,ENSG00000114854,TNNC1,"troponin C1, slow skeletal and cardiac type",0.8622011726133452
+EFO_0003777,heart disease,ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.8621892069184216
+EFO_0003777,heart disease,ENSG00000111245,MYL2,myosin light chain 2,0.8607923520125265
+EFO_0003777,heart disease,ENSG00000134755,DSC2,desmocollin 2,0.8604341678685573
+EFO_0003777,heart disease,ENSG00000140416,TPM1,tropomyosin 1,0.8579713080473159
+EFO_0003777,heart disease,ENSG00000035403,VCL,vinculin,0.855567111602368
+EFO_0003777,heart disease,ENSG00000077522,ACTN2,actinin alpha 2,0.8541187555546572
+EFO_0003777,heart disease,ENSG00000164532,TBX20,T-box transcription factor 20,0.8535860395113377
+EFO_0003777,heart disease,ENSG00000170876,TMEM43,transmembrane protein 43,0.8529944703990568
+EFO_0003777,heart disease,ENSG00000100485,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2,0.8521632113384147
+EFO_0003777,heart disease,ENSG00000173801,JUP,junction plakoglobin,0.8517550309364237
+EFO_0003777,heart disease,ENSG00000129170,CSRP3,cysteine and glycine rich protein 3,0.8513754169432239
+EFO_0003777,heart disease,ENSG00000089225,TBX5,T-box transcription factor 5,0.8511259358574761
+EFO_0003777,heart disease,ENSG00000140374,ETFA,electron transfer flavoprotein subunit alpha,0.8508587732369981
+EFO_0003777,heart disease,ENSG00000184058,TBX1,T-box transcription factor 1,0.8503732299198146
+EFO_0003777,heart disease,ENSG00000108061,SHOC2,SHOC2 leucine rich repeat scaffold protein,0.8495804602037341
+EFO_0003777,heart disease,ENSG00000106692,FKTN,fukutin,0.8462154925304517
+EFO_0003777,heart disease,ENSG00000184895,SRY,sex determining region Y,0.845571647487358
+EFO_0003777,heart disease,ENSG00000105379,ETFB,electron transfer flavoprotein subunit beta,0.8445311488045448
+EFO_0003777,heart disease,ENSG00000141448,GATA6,GATA binding protein 6,0.8443410895393131
+EFO_0003777,heart disease,ENSG00000006530,AGK,acylglycerol kinase,0.8442392816607495
+EFO_0003777,heart disease,ENSG00000079739,PGM1,phosphoglucomutase 1,0.8441993796449538
+EFO_0003777,heart disease,ENSG00000143622,RIT1,Ras like without CAAX 1,0.8439330831203877
+EFO_0003777,heart disease,ENSG00000022267,FHL1,four and a half LIM domains 1,0.8434834887249256
+EFO_0003777,heart disease,ENSG00000160808,MYL3,myosin light chain 3,0.842874362760696
+EFO_0003777,heart disease,ENSG00000284194,SCO2,synthesis of cytochrome C oxidase 2,0.8426041345797662
+EFO_0003777,heart disease,ENSG00000198523,PLN,phospholamban,0.8424697836804119
+EFO_0003777,heart disease,ENSG00000122367,LDB3,LIM domain binding 3,0.8421846108299592
+EFO_0003777,heart disease,ENSG00000130283,GDF1,growth differentiation factor 1,0.842008859876803
+EFO_0003777,heart disease,ENSG00000129757,CDKN1C,cyclin dependent kinase inhibitor 1C,0.8410966253300055
+EFO_0003777,heart disease,ENSG00000213639,PPP1CB,protein phosphatase 1 catalytic subunit beta,0.8408779577591967
+EFO_0003777,heart disease,ENSG00000084754,HADHA,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha,0.8403089482013529
+EFO_0003777,heart disease,ENSG00000156925,ZIC3,Zic family zinc finger 3,0.8385894039851504
+EFO_0003777,heart disease,ENSG00000169105,CHST14,carbohydrate sulfotransferase 14,0.8385295768418252
+EFO_0003777,heart disease,ENSG00000108823,SGCA,sarcoglycan alpha,0.8383490905998741
+EFO_0003777,heart disease,ENSG00000149596,JPH2,junctophilin 2,0.836801006681829
+EFO_0003777,heart disease,ENSG00000072840,EVC,EvC ciliary complex subunit 1,0.8355419677940217
+EFO_0003777,heart disease,ENSG00000138347,MYPN,myopalladin,0.8332932253633804
+EFO_0003777,heart disease,ENSG00000005893,LAMP2,lysosome associated membrane protein 2,0.8330435421178427
+EFO_0003777,heart disease,ENSG00000130203,APOE,apolipoprotein E,0.8328544341746678
+EFO_0003777,heart disease,ENSG00000110395,CBL,Cbl proto-oncogene,0.8313850487549369
+EFO_0003777,heart disease,ENSG00000166068,SPRED1,sprouty related EVH1 domain containing 1,0.8298661894458639
+EFO_0003777,heart disease,ENSG00000162614,NEXN,nexilin F-actin binding protein,0.8297656344511106
+EFO_0003777,heart disease,ENSG00000134775,FHOD3,formin homology 2 domain containing 3,0.828934137295497
+EFO_0003777,heart disease,ENSG00000198786,MT-ND5,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5,0.8273515760939183
+EFO_0003777,heart disease,ENSG00000173040,EVC2,EvC ciliary complex subunit 2,0.8252965549441124
+EFO_0003777,heart disease,ENSG00000142611,PRDM16,PR/SET domain 16,0.8252089872152579
+EFO_0003777,heart disease,ENSG00000123066,MED13L,mediator complex subunit 13L,0.8249882035005942
+EFO_0003777,heart disease,ENSG00000198886,MT-ND4,mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4,0.8239109161307655
+EFO_0003777,heart disease,ENSG00000133818,RRAS2,RAS related 2,0.8229151225044703
+EFO_0003777,heart disease,ENSG00000008196,TFAP2B,transcription factor AP-2 beta,0.8217848776277304
+EFO_0003777,heart disease,ENSG00000175283,DOLK,dolichol kinase,0.8207340236873855
+EFO_0003777,heart disease,ENSG00000138777,PPA2,inorganic pyrophosphatase 2,0.8195898645661632
+EFO_0003777,heart disease,ENSG00000102119,EMD,emerin,0.8195432545862353
+EFO_0003777,heart disease,ENSG00000102125,TAFAZZIN,"tafazzin, phospholipid-lysophospholipid transacylase",0.8188162244449717
+EFO_0003777,heart disease,ENSG00000103241,FOXF1,forkhead box F1,0.817506751760091
+EFO_0003777,heart disease,ENSG00000136383,ALPK3,alpha kinase 3,0.8169645239514547
+EFO_0003777,heart disease,ENSG00000163069,SGCB,sarcoglycan beta,0.8167072578485484
+EFO_0000612,myocardial infarction,ENSG00000164116,GUCY1A1,guanylate cyclase 1 soluble subunit alpha 1,0.691427004868306
+EFO_0000612,myocardial infarction,ENSG00000169174,PCSK9,proprotein convertase subtilisin/kexin type 9,0.6900153063729019
+EFO_0000612,myocardial infarction,ENSG00000043591,ADRB1,adrenoceptor beta 1,0.6251298122681085
+EFO_0000612,myocardial infarction,ENSG00000169313,P2RY12,purinergic receptor P2Y12,0.6241410210318129
+EFO_0000612,myocardial infarction,ENSG00000130164,LDLR,low density lipoprotein receptor,0.6230682884864034
+EFO_0000612,myocardial infarction,ENSG00000188778,ADRB3,adrenoceptor beta 3,0.6192106767944234
+EFO_0000612,myocardial infarction,ENSG00000144891,AGTR1,angiotensin II receptor type 1,0.6166259393967332
+EFO_0000612,myocardial infarction,ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.6164520288491491
+EFO_0000612,myocardial infarction,ENSG00000159640,ACE,angiotensin I converting enzyme,0.6144949767338873
+EFO_0000612,myocardial infarction,ENSG00000169252,ADRB2,adrenoceptor beta 2,0.6108791237679772
+EFO_0000612,myocardial infarction,ENSG00000104368,PLAT,"plasminogen activator, tissue type",0.6102772778023646
+EFO_0000612,myocardial infarction,ENSG00000120907,ADRA1A,adrenoceptor alpha 1A,0.6092189801331681
+EFO_0000612,myocardial infarction,ENSG00000171873,ADRA1D,adrenoceptor alpha 1D,0.6066976786839411
+EFO_0000612,myocardial infarction,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.6062752516028421
+EFO_0000612,myocardial infarction,ENSG00000170214,ADRA1B,adrenoceptor alpha 1B,0.6048322777057825
+EFO_0000612,myocardial infarction,ENSG00000151623,NR3C2,nuclear receptor subfamily 3 group C member 2,0.6033048817808045
+EFO_0000612,myocardial infarction,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.5996198419572871
+EFO_0000612,myocardial infarction,ENSG00000117601,SERPINC1,serpin family C member 1,0.5971630225656096
+EFO_0000612,myocardial infarction,ENSG00000070915,SLC12A3,solute carrier family 12 member 3,0.5954680573430936
+EFO_0000612,myocardial infarction,ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.5935908541048607
+EFO_0000612,myocardial infarction,ENSG00000081248,CACNA1S,calcium voltage-gated channel subunit alpha1 S,0.5928516943954913
+EFO_0000612,myocardial infarction,ENSG00000102001,CACNA1F,calcium voltage-gated channel subunit alpha1 F,0.5928516943954913
+EFO_0000612,myocardial infarction,ENSG00000134243,SORT1,sortilin 1,0.5912395434250032
+EFO_0000612,myocardial infarction,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.5902710488653279
+EFO_0000612,myocardial infarction,ENSG00000130203,APOE,apolipoprotein E,0.5887037871198939
+EFO_0000612,myocardial infarction,ENSG00000198670,LPA,lipoprotein(a),0.5785379045032499
+EFO_0000612,myocardial infarction,ENSG00000143126,CELSR2,cadherin EGF LAG seven-pass G-type receptor 2,0.5735831512379983
+EFO_0000612,myocardial infarction,ENSG00000061918,GUCY1B1,guanylate cyclase 1 soluble subunit beta 1,0.5711300334160185
+EFO_0000612,myocardial infarction,ENSG00000259207,ITGB3,integrin subunit beta 3,0.5682797088327555
+EFO_0000612,myocardial infarction,ENSG00000005961,ITGA2B,integrin subunit alpha 2b,0.5645717546667826
+EFO_0000612,myocardial infarction,ENSG00000175445,LPL,lipoprotein lipase,0.5632112842284969
+EFO_0000612,myocardial infarction,ENSG00000122194,PLG,plasminogen,0.5610682993811655
+EFO_0000612,myocardial infarction,ENSG00000118526,TCF21,transcription factor 21,0.5575544441821462
+EFO_0000612,myocardial infarction,ENSG00000140564,FURIN,"furin, paired basic amino acid cleaving enzyme",0.5557672883684257
+EFO_0000612,myocardial infarction,ENSG00000107798,LIPA,"lipase A, lysosomal acid type",0.5507117925545618
+EFO_0000612,myocardial infarction,ENSG00000182511,FES,"FES proto-oncogene, tyrosine kinase",0.5471491229841035
+EFO_0000612,myocardial infarction,ENSG00000152402,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,0.5391587751803382
+EFO_0000612,myocardial infarction,ENSG00000084674,APOB,apolipoprotein B,0.5358121952396777
+EFO_0000612,myocardial infarction,ENSG00000187498,COL4A1,collagen type IV alpha 1 chain,0.5352246005257699
+EFO_0000612,myocardial infarction,ENSG00000181104,F2R,coagulation factor II thrombin receptor,0.534584914718991
+EFO_0000612,myocardial infarction,ENSG00000151617,EDNRA,endothelin receptor type A,0.5310812316269857
+EFO_0000612,myocardial infarction,ENSG00000091732,ZC3HC1,zinc finger C3HC-type containing 1,0.5292908781065363
+EFO_0000612,myocardial infarction,ENSG00000167397,VKORC1,vitamin K epoxide reductase complex subunit 1,0.52430391611624
+EFO_0000612,myocardial infarction,ENSG00000182218,HHIPL1,HHIP like 1,0.5237314678834668
+EFO_0000612,myocardial infarction,ENSG00000134871,COL4A2,collagen type IV alpha 2 chain,0.5185480708463732
+EFO_0000612,myocardial infarction,ENSG00000154305,MIA3,MIA SH3 domain ER export factor 3,0.5144977741332598
+EFO_0000612,myocardial infarction,ENSG00000112137,PHACTR1,phosphatase and actin regulator 1,0.5122139898528693
+EFO_0000612,myocardial infarction,ENSG00000149257,SERPINH1,serpin family H member 1,0.5089094464970947
+EFO_0000612,myocardial infarction,ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.49834321536732756
+EFO_0000612,myocardial infarction,ENSG00000138675,FGF5,fibroblast growth factor 5,0.4891079292248868
+EFO_0000612,myocardial infarction,ENSG00000070961,ATP2B1,ATPase plasma membrane Ca2+ transporting 1,0.48865074004282266
+EFO_0000612,myocardial infarction,ENSG00000111245,MYL2,myosin light chain 2,0.48779395764778255
+EFO_0000612,myocardial infarction,ENSG00000165757,JCAD,junctional cadherin 5 associated,0.4867524485533709
+EFO_0000612,myocardial infarction,ENSG00000079308,TNS1,tensin 1,0.47966041227323075
+EFO_0000612,myocardial infarction,ENSG00000136378,ADAMTS7,ADAM metallopeptidase with thrombospondin type 1 motif 7,0.47802061102028015
+EFO_0000612,myocardial infarction,ENSG00000197635,DPP4,dipeptidyl peptidase 4,0.4755788593410818
+EFO_0000612,myocardial infarction,ENSG00000162407,PLPP3,phospholipid phosphatase 3,0.4752812892340925
+EFO_0000612,myocardial infarction,ENSG00000084093,REST,RE1 silencing transcription factor,0.47516532565312913
+EFO_0000612,myocardial infarction,ENSG00000101000,PROCR,protein C receptor,0.47172598907977403
+EFO_0000612,myocardial infarction,ENSG00000160712,IL6R,interleukin 6 receptor,0.46824033886278293
+EFO_0000612,myocardial infarction,ENSG00000146477,SLC22A3,solute carrier family 22 member 3,0.46576176173071715
+EFO_0000612,myocardial infarction,ENSG00000068305,MEF2A,myocyte enhancer factor 2A,0.4599584834509915
+EFO_0000612,myocardial infarction,ENSG00000115414,FN1,fibronectin 1,0.45974624616073334
+EFO_0000612,myocardial infarction,ENSG00000158186,MRAS,muscle RAS oncogene homolog,0.45840525207827365
+EFO_0000612,myocardial infarction,ENSG00000167941,SOST,sclerostin,0.45146992564413807
+EFO_0000612,myocardial infarction,ENSG00000134222,PSRC1,proline and serine rich coiled-coil 1,0.45099882183413065
+EFO_0000612,myocardial infarction,ENSG00000197520,FAM177B,family with sequence similarity 177 member B,0.4436778396933518
+EFO_0000612,myocardial infarction,ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.4383865096288283
+EFO_0000612,myocardial infarction,ENSG00000166949,SMAD3,SMAD family member 3,0.4366727581140187
+EFO_0000612,myocardial infarction,ENSG00000074803,SLC12A1,solute carrier family 12 member 1,0.4342563292545246
+EFO_0000612,myocardial infarction,ENSG00000118655,DCLRE1B,DNA cross-link repair 1B,0.43182852574745595
+EFO_0000612,myocardial infarction,ENSG00000135144,DTX1,deltex E3 ubiquitin ligase 1,0.4300125059210623
+EFO_0000612,myocardial infarction,ENSG00000108219,TSPAN14,tetraspanin 14,0.42439275847219826
+EFO_0000612,myocardial infarction,ENSG00000122861,PLAU,"plasminogen activator, urokinase",0.42294806933909523
+EFO_0000612,myocardial infarction,ENSG00000073060,SCARB1,scavenger receptor class B member 1,0.4203095166568601
+EFO_0000612,myocardial infarction,ENSG00000026652,AGPAT4,1-acylglycerol-3-phosphate O-acyltransferase 4,0.4199230735454514
+EFO_0000612,myocardial infarction,ENSG00000157193,LRP8,LDL receptor related protein 8,0.41935626820822886
+EFO_0000612,myocardial infarction,ENSG00000138380,CARF,calcium responsive transcription factor,0.4191754899100609
+EFO_0000612,myocardial infarction,ENSG00000140675,SLC5A2,solute carrier family 5 member 2,0.41826297206219387
+EFO_0000612,myocardial infarction,ENSG00000102755,FLT1,fms related receptor tyrosine kinase 1,0.41708848045130353
+EFO_0000612,myocardial infarction,ENSG00000110243,APOA5,apolipoprotein A5,0.41660372645946075
+EFO_0000612,myocardial infarction,ENSG00000111275,ALDH2,aldehyde dehydrogenase 2 family member,0.41208150588879133
+EFO_0000612,myocardial infarction,ENSG00000135100,HNF1A,HNF1 homeobox A,0.41118682616710994
+EFO_0000612,myocardial infarction,ENSG00000143921,ABCG8,ATP binding cassette subfamily G member 8,0.4102420135228813
+EFO_0000612,myocardial infarction,ENSG00000109917,ZPR1,ZPR1 zinc finger,0.40952773731438996
+EFO_0000612,myocardial infarction,ENSG00000059378,PARP12,poly(ADP-ribose) polymerase family member 12,0.40819299556116884
+EFO_0000612,myocardial infarction,ENSG00000185787,MORF4L1,mortality factor 4 like 1,0.4081576580494385
+EFO_0000612,myocardial infarction,ENSG00000139438,FAM222A,family with sequence similarity 222 member A,0.40739829983230247
+EFO_0000612,myocardial infarction,ENSG00000112210,RAB23,"RAB23, member RAS oncogene family",0.406344570279678
+EFO_0000612,myocardial infarction,ENSG00000164867,NOS3,nitric oxide synthase 3,0.4035489434279594
+EFO_0000612,myocardial infarction,ENSG00000138448,ITGAV,integrin subunit alpha V,0.40314166804704654
+EFO_0000612,myocardial infarction,ENSG00000198740,ZNF652,zinc finger protein 652,0.3974713507277054
+EFO_0000612,myocardial infarction,ENSG00000137714,FDX1,ferredoxin 1,0.3957324252715818
+EFO_0000612,myocardial infarction,ENSG00000170967,DDI1,DDI proteasomal shuttling factor 1,0.39120818673011537
+EFO_0000612,myocardial infarction,ENSG00000115252,PDE1A,phosphodiesterase 1A,0.3901663459591872
+EFO_0000612,myocardial infarction,ENSG00000261371,PECAM1,platelet and endothelial cell adhesion molecule 1,0.3884305065389396
+EFO_0000612,myocardial infarction,ENSG00000126218,F10,coagulation factor X,0.38553483874665867
+EFO_0000612,myocardial infarction,ENSG00000173334,TRIB1,tribbles pseudokinase 1,0.38518610143264576
+EFO_0000612,myocardial infarction,ENSG00000133392,MYH11,myosin heavy chain 11,0.38409482000362977
+EFO_0000612,myocardial infarction,ENSG00000180210,F2,"coagulation factor II, thrombin",0.38339267726033666
+EFO_0000180,HIV-1 infection,ENSG00000160791,CCR5,C-C motif chemokine receptor 5,0.67792770178648
+EFO_0000180,HIV-1 infection,ENSG00000160868,CYP3A4,cytochrome P450 family 3 subfamily A member 4,0.5921112630086154
+EFO_0000180,HIV-1 infection,ENSG00000106258,CYP3A5,cytochrome P450 family 3 subfamily A member 5,0.5921112630086154
+EFO_0000180,HIV-1 infection,ENSG00000160870,CYP3A7,cytochrome P450 family 3 subfamily A member 7,0.5921112630086154
+EFO_0000180,HIV-1 infection,ENSG00000021461,CYP3A43,cytochrome P450 family 3 subfamily A member 43,0.5921112630086154
+EFO_0000180,HIV-1 infection,ENSG00000010610,CD4,CD4 molecule,0.5192257470481995
+EFO_0000180,HIV-1 infection,ENSG00000164342,TLR3,toll like receptor 3,0.39841373829072785
+EFO_0000180,HIV-1 infection,ENSG00000121807,CCR2,C-C motif chemokine receptor 2,0.3967448052234313
+EFO_0000180,HIV-1 infection,ENSG00000111537,IFNG,interferon gamma,0.38097625233669935
+EFO_0000180,HIV-1 infection,ENSG00000108691,CCL2,C-C motif chemokine ligand 2,0.3800175928284981
+EFO_0000180,HIV-1 infection,ENSG00000107562,CXCL12,C-X-C motif chemokine ligand 12,0.3675509850165065
+EFO_0000180,HIV-1 infection,ENSG00000101162,TUBB1,tubulin beta 1 class VI,0.32430632248582586
+EFO_0000180,HIV-1 infection,ENSG00000137267,TUBB2A,tubulin beta 2A class IIa,0.32430632248582586
+EFO_0000180,HIV-1 infection,ENSG00000104833,TUBB4A,tubulin beta 4A class IVa,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000123416,TUBA1B,tubulin alpha 1b,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000137285,TUBB2B,tubulin beta 2B class IIb,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000198033,TUBA3C,tubulin alpha 3c,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000127824,TUBA4A,tubulin alpha 4a,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000261456,TUBB8,tubulin beta 8 class VIII,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000188229,TUBB4B,tubulin beta 4B class IVb,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000167553,TUBA1C,tubulin alpha 1c,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000196230,TUBB,tubulin beta class I,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000258947,TUBB3,tubulin beta 3 class III,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000152086,TUBA3E,tubulin alpha 3e,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000167552,TUBA1A,tubulin alpha 1a,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000176014,TUBB6,tubulin beta 6 class V,0.3233823728491141
+EFO_0000180,HIV-1 infection,ENSG00000121797,CCRL2,C-C motif chemokine receptor like 2,0.3230470585117621
+EFO_0000180,HIV-1 infection,ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.2921554416550254
+EFO_0000180,HIV-1 infection,ENSG00000077097,TOP2B,DNA topoisomerase II beta,0.25962984791600296
+EFO_0000180,HIV-1 infection,ENSG00000131747,TOP2A,DNA topoisomerase II alpha,0.25962984791600296
+EFO_0000180,HIV-1 infection,ENSG00000090659,CD209,CD209 molecule,0.23834542906339617
+EFO_0000180,HIV-1 infection,ENSG00000168329,CX3CR1,C-X3-C motif chemokine receptor 1,0.215055764615739
+EFO_0000180,HIV-1 infection,ENSG00000163464,CXCR1,C-X-C motif chemokine receptor 1,0.16774711214025717
+EFO_0000180,HIV-1 infection,ENSG00000153201,RANBP2,RAN binding protein 2,0.15957048523372383
+EFO_0000180,HIV-1 infection,ENSG00000077238,IL4R,interleukin 4 receptor,0.150041721421683
+EFO_0000180,HIV-1 infection,ENSG00000030066,NUP160,nucleoporin 160,0.1499108285564822
+EFO_0000180,HIV-1 infection,ENSG00000136634,IL10,interleukin 10,0.13793380614983486
+EFO_0000180,HIV-1 infection,ENSG00000142224,IL19,interleukin 19,0.12140698226392455
+EFO_0000180,HIV-1 infection,ENSG00000111605,CPSF6,cleavage and polyadenylation specific factor 6,0.11541324944700165
+EFO_0000180,HIV-1 infection,ENSG00000101347,SAMHD1,SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1,0.11380645024832592
+EFO_0000180,HIV-1 infection,ENSG00000153563,CD8A,CD8 subunit alpha,0.1108458281065633
+EFO_0000180,HIV-1 infection,ENSG00000196664,TLR7,toll like receptor 7,0.10999753569897176
+EFO_0000180,HIV-1 infection,ENSG00000197919,IFNA1,interferon alpha 1,0.10698000888886897
+EFO_0000180,HIV-1 infection,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.10211070003145377
+EFO_0000180,HIV-1 infection,ENSG00000082175,PGR,progesterone receptor,0.09741550063095977
+EFO_0000180,HIV-1 infection,ENSG00000100242,SUN2,Sad1 and UNC84 domain containing 2,0.09509830039488679
+EFO_0000180,HIV-1 infection,ENSG00000167005,NUDT21,nudix hydrolase 21,0.09488860107958971
+EFO_0000180,HIV-1 infection,ENSG00000105355,PLIN3,perilipin 3,0.09411966965970406
+EFO_0000180,HIV-1 infection,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.0933189133078872
+EFO_0000180,HIV-1 infection,ENSG00000164828,SUN1,Sad1 and UNC84 domain containing 1,0.09254895527729406
+EFO_0000180,HIV-1 infection,ENSG00000183486,MX2,MX dynamin like GTPase 2,0.08907513401207126
+EFO_0000180,HIV-1 infection,ENSG00000139626,ITGB7,integrin subunit beta 7,0.08814479534230138
+EFO_0000180,HIV-1 infection,ENSG00000115232,ITGA4,integrin subunit alpha 4,0.08777521548761667
+EFO_0000180,HIV-1 infection,ENSG00000100644,HIF1A,hypoxia inducible factor 1 subunit alpha,0.08637385733606114
+EFO_0000180,HIV-1 infection,ENSG00000121966,CXCR4,C-X-C motif chemokine receptor 4,0.08576725371995587
+EFO_0000180,HIV-1 infection,ENSG00000135077,HAVCR2,hepatitis A virus cellular receptor 2,0.08567126159641793
+EFO_0000180,HIV-1 infection,ENSG00000105329,TGFB1,transforming growth factor beta 1,0.08546230560889694
+EFO_0000180,HIV-1 infection,ENSG00000265681,RPL17,ribosomal protein L17,0.08541420139650288
+EFO_0000180,HIV-1 infection,ENSG00000204632,HLA-G,"major histocompatibility complex, class I, G",0.08458429351168494
+EFO_0000180,HIV-1 infection,ENSG00000164733,CTSB,cathepsin B,0.0845491940005022
+EFO_0000180,HIV-1 infection,ENSG00000188379,IFNA2,interferon alpha 2,0.08421379817195211
+EFO_0000180,HIV-1 infection,ENSG00000101336,HCK,"HCK proto-oncogene, Src family tyrosine kinase",0.0841641123241349
+EFO_0000180,HIV-1 infection,ENSG00000138684,IL21,interleukin 21,0.08406839401172145
+EFO_0000180,HIV-1 infection,ENSG00000094631,HDAC6,histone deacetylase 6,0.08399825473037613
+EFO_0000180,HIV-1 infection,ENSG00000234829,IFNA17,interferon alpha 17,0.0839888112264949
+EFO_0000180,HIV-1 infection,ENSG00000164985,PSIP1,PC4 and SRSF1 interacting protein 1,0.0830612080363193
+EFO_0000180,HIV-1 infection,ENSG00000168961,LGALS9,galectin 9,0.08301942871225695
+EFO_0000180,HIV-1 infection,ENSG00000130303,BST2,bone marrow stromal cell antigen 2,0.08285484018063302
+EFO_0000180,HIV-1 infection,ENSG00000174059,CD34,CD34 molecule,0.08215562019698104
+EFO_0000180,HIV-1 infection,ENSG00000197635,DPP4,dipeptidyl peptidase 4,0.08178060542323247
+EFO_0000180,HIV-1 infection,ENSG00000004468,CD38,CD38 molecule,0.0808910267438824
+EFO_0000180,HIV-1 infection,ENSG00000145335,SNCA,synuclein alpha,0.08057031015867626
+EFO_0000180,HIV-1 infection,ENSG00000120217,CD274,CD274 molecule,0.08042396909724113
+EFO_0000180,HIV-1 infection,ENSG00000181847,TIGIT,T cell immunoreceptor with Ig and ITIM domains,0.07969808690545029
+EFO_0000180,HIV-1 infection,ENSG00000116478,HDAC1,histone deacetylase 1,0.07939550558799477
+EFO_0000180,HIV-1 infection,ENSG00000175591,P2RY2,purinergic receptor P2Y2,0.07932992575814427
+EFO_0000180,HIV-1 infection,ENSG00000105483,CARD8,caspase recruitment domain family member 8,0.07913193294970412
+EFO_0000180,HIV-1 infection,ENSG00000142166,IFNAR1,interferon alpha and beta receptor subunit 1,0.07851671034067112
+EFO_0000180,HIV-1 infection,ENSG00000171720,HDAC3,histone deacetylase 3,0.07834579613961949
+EFO_0000180,HIV-1 infection,ENSG00000197122,SRC,"SRC proto-oncogene, non-receptor tyrosine kinase",0.07831550798106367
+EFO_0000180,HIV-1 infection,ENSG00000196591,HDAC2,histone deacetylase 2,0.07820720369411271
+EFO_0000180,HIV-1 infection,ENSG00000100614,PPM1A,"protein phosphatase, Mg2+/Mn2+ dependent 1A",0.07762203559086198
+EFO_0000180,HIV-1 infection,ENSG00000097007,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",0.07733458459277386
+EFO_0000180,HIV-1 infection,ENSG00000145041,DCAF1,DDB1 and CUL4 associated factor 1,0.07693306367684587
+EFO_0000180,HIV-1 infection,ENSG00000182866,LCK,"LCK proto-oncogene, Src family tyrosine kinase",0.07689124275875833
+EFO_0000180,HIV-1 infection,ENSG00000065427,KARS1,lysyl-tRNA synthetase 1,0.07678749117602637
+EFO_0000180,HIV-1 infection,ENSG00000186716,BCR,BCR activator of RhoGEF and GTPase,0.07613540062539274
+EFO_0000180,HIV-1 infection,ENSG00000165527,ARF6,ARF GTPase 6,0.07607965566397777
+EFO_0000180,HIV-1 infection,ENSG00000159110,IFNAR2,interferon alpha and beta receptor subunit 2,0.07543828062449372
+EFO_0000180,HIV-1 infection,ENSG00000010810,FYN,"FYN proto-oncogene, Src family tyrosine kinase",0.07507090798283006
+EFO_0000180,HIV-1 infection,ENSG00000148180,GSN,gelsolin,0.07490151721609957
+EFO_0000180,HIV-1 infection,ENSG00000232810,TNF,tumor necrosis factor,0.07484953656702889
+EFO_0000180,HIV-1 infection,ENSG00000131759,RARA,retinoic acid receptor alpha,0.07483992057365212
+EFO_0000180,HIV-1 infection,ENSG00000091831,ESR1,estrogen receptor 1,0.07483992057365212
+EFO_0000180,HIV-1 infection,ENSG00000157404,KIT,"KIT proto-oncogene, receptor tyrosine kinase",0.07447034071896741
+EFO_0000180,HIV-1 infection,ENSG00000136573,BLK,"BLK proto-oncogene, Src family tyrosine kinase",0.07391597093694036
+EFO_0000180,HIV-1 infection,ENSG00000144891,AGTR1,angiotensin II receptor type 1,0.07391597093694036
+EFO_0000180,HIV-1 infection,ENSG00000176105,YES1,"YES proto-oncogene 1, Src family tyrosine kinase",0.07391597093694036
+EFO_0000180,HIV-1 infection,ENSG00000254087,LYN,"LYN proto-oncogene, Src family tyrosine kinase",0.07391597093694036
+EFO_0000180,HIV-1 infection,ENSG00000077092,RARB,retinoic acid receptor beta,0.07391597093694036
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000107485,GATA3,GATA binding protein 3,0.5668727328212855
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000177455,CD19,CD19 molecule,0.557991233355269
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000185811,IKZF1,IKAROS family zinc finger 1,0.5489965167815758
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.518242269053391
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000198851,CD3E,CD3 epsilon subunit of T-cell receptor complex,0.4991700624760392
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000157554,ERG,ETS transcription factor ERG,0.49893435683131643
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000160654,CD3G,CD3 gamma subunit of T-cell receptor complex,0.49852329773034093
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000167286,CD3D,CD3 delta subunit of T-cell receptor complex,0.49852329773034093
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000150347,ARID5B,AT-rich interaction domain 5B,0.4812052409959467
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000150867,PIP4K2A,phosphatidylinositol-5-phosphate 4-kinase type 2 alpha,0.44016880397445074
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000030110,BAK1,BCL2 antagonist/killer 1,0.422164661256712
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000071564,TCF3,transcription factor 3,0.4181645898663928
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000012124,CD22,CD22 molecule,0.4038856933523727
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.4002267690786111
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000132436,FIGNL1,fidgetin like 1,0.39691676328600933
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000118513,MYB,"MYB proto-oncogene, transcription factor",0.38453703783175414
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000118058,KMT2A,lysine methyltransferase 2A,0.3748470978809451
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000097007,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",0.3747053369440564
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000159216,RUNX1,RUNX family transcription factor 1,0.37468669722582276
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000186716,BCR,BCR activator of RhoGEF and GTPase,0.37388988382158284
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000172493,AFF1,ALF transcription elongation factor 1,0.37387428675425627
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000139083,ETV6,ETS variant transcription factor 6,0.373057557661747
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000196092,PAX5,paired box 5,0.37302139443919924
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000185630,PBX1,PBX homeobox 1,0.37285687674043344
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000005339,CREBBP,CREB binding lysine acetyltransferase ,0.3720745187038235
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000179295,PTPN11,protein tyrosine phosphatase non-receptor type 11,0.3718337753502389
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000171843,MLLT3,MLLT3 super elongation complex subunit,0.3714277539581253
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000078403,MLLT10,MLLT10 histone lysine methyltransferase DOT1L cofactor,0.3714277539581253
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000213281,NRAS,"NRAS proto-oncogene, GTPase",0.37026768385869835
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000130382,MLLT1,MLLT1 super elongation complex subunit,0.37013422446672883
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000085832,EPS15,epidermal growth factor receptor pathway substrate 15,0.3695798546847018
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000076685,NT5C2,"5'-nucleotidase, cytosolic II",0.3695798546847018
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000130876,SLC7A10,solute carrier family 7 member 10,0.3693985586815952
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000223601,EBLN1,endogenous Bornavirus like nucleoprotein 1,0.35282571740478547
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000107902,LHPP,phospholysine phosphohistidine inorganic pyrophosphate phosphatase,0.3463134106806807
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000125347,IRF1,interferon regulatory factor 1,0.3438386391605108
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000122025,FLT3,fms related receptor tyrosine kinase 3,0.3295857682750547
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000056972,TRAF3IP2,TRAF3 interacting protein 2,0.3206864814571115
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000111145,ELK3,ETS transcription factor ELK3,0.31974409469977266
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000182010,RTKN2,rhotekin 2,0.3138113096629979
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000108691,CCL2,C-C motif chemokine ligand 2,0.3104309049903708
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.3084068603903188
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000170500,LONRF2,LON peptidase N-terminal domain and ring finger 2,0.3070966828592417
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000091138,SLC26A3,solute carrier family 26 member 3,0.30428238733398294
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000171791,BCL2,BCL2 apoptosis regulator,0.29905807400057555
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000110367,DDX6,DEAD-box helicase 6,0.2976298332086901
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000119772,DNMT3A,DNA methyltransferase 3 alpha,0.2958692058892529
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000062822,POLD1,"DNA polymerase delta 1, catalytic subunit",0.2956638837477614
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000134986,NREP,neuronal regeneration related protein,0.2950995134755392
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000104427,ZC2HC1A,zinc finger C2HC-type containing 1A,0.29429476188556497
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000144619,CNTN4,contactin 4,0.29267175512725624
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000042832,TG,thyroglobulin,0.28899937658753716
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000161405,IKZF3,IKAROS family zinc finger 3,0.2869731195894278
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000141736,ERBB2,erb-b2 receptor tyrosine kinase 2,0.28694371571890714
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000205755,CRLF2,cytokine receptor like factor 2,0.2829247972069965
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000096968,JAK2,Janus kinase 2,0.2825606029598659
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000136997,MYC,"MYC proto-oncogene, bHLH transcription factor",0.2823203953060406
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000109320,NFKB1,nuclear factor kappa B subunit 1,0.28217396851229526
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000121879,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",0.2816759703640943
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000179348,GATA2,GATA binding protein 2,0.28105777990740977
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000153944,MSI2,musashi RNA binding protein 2,0.2808806895603734
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000139687,RB1,RB transcriptional corepressor 1,0.2808806895603734
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000126746,ZNF384,zinc finger protein 384,0.28078550345379544
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000118503,TNFAIP3,TNF alpha induced protein 3,0.28060350466935985
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000141510,TP53,tumor protein p53,0.28057468799930346
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000106462,EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,0.28047389506754333
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000171862,PTEN,phosphatase and tensin homolog,0.28037274510490523
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000173757,STAT5B,signal transducer and activator of transcription 5B,0.28024185465491663
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000119535,CSF3R,colony stimulating factor 3 receptor,0.28009019931563106
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000198793,MTOR,mechanistic target of rapamycin kinase,0.2799498423379251
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000142208,AKT1,AKT serine/threonine kinase 1,0.27993618467156667
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000168685,IL7R,interleukin 7 receptor,0.27987850177033174
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000010671,BTK,Bruton tyrosine kinase,0.27981301442461753
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.27980359212869077
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000150907,FOXO1,forkhead box O1,0.2797347353581739
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000172175,MALT1,MALT1 paracaspase,0.27970008724679724
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000108924,HLF,"HLF transcription factor, PAR bZIP family member",0.27969230735201134
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000100393,EP300,EP300 lysine acetyltransferase,0.2796051257563574
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000012048,BRCA1,BRCA1 DNA repair associated,0.2795871600689769
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000073282,TP63,tumor protein p63,0.2795871600689769
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000141867,BRD4,bromodomain containing 4,0.2795589282745218
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000135679,MDM2,MDM2 proto-oncogene,0.279535829533604
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000121966,CXCR4,C-X-C motif chemokine receptor 4,0.27949476510530574
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000182944,EWSR1,EWS RNA binding protein 1,0.27949476510530574
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000119866,BCL11A,BCL11 transcription factor A,0.27940237014163455
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000133703,KRAS,"KRAS proto-oncogene, GTPase",0.2793837884878296
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000077782,FGFR1,fibroblast growth factor receptor 1,0.2793022755976574
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000081237,PTPRC,protein tyrosine phosphatase receptor type C,0.2792824106804681
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000138336,TET1,tet methylcytosine dioxygenase 1,0.27925032909586006
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000119335,SET,SET nuclear proto-oncogene,0.27923297937490404
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000168769,TET2,tet methylcytosine dioxygenase 2,0.279125185250621
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000127616,SMARCA4,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4,0.279125185250621
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000140538,NTRK3,neurotrophic receptor tyrosine kinase 3,0.279125185250621
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000112576,CCND3,cyclin D3,0.279125185250621
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000181555,SETD2,"SET domain containing 2, histone lysine methyltransferase",0.279125185250621
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000101115,SALL4,spalt like transcription factor 4,0.27903279028694983
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000138413,IDH1,isocitrate dehydrogenase (NADP(+)) 1,0.27903279028694983
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000153201,RANBP2,RAN binding protein 2,0.27903279028694983
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000007237,GAS7,growth arrest specific 7,0.27903279028694983
+EFO_0000094,B-cell acute lymphoblastic leukemia,ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.27903279028694983
+EFO_0001645,coronary artery disease,ENSG00000130203,APOE,apolipoprotein E,0.8186897561995755
+EFO_0001645,coronary artery disease,ENSG00000130164,LDLR,low density lipoprotein receptor,0.7382656588831709
+EFO_0001645,coronary artery disease,ENSG00000164116,GUCY1A1,guanylate cyclase 1 soluble subunit alpha 1,0.7374837818012532
+EFO_0001645,coronary artery disease,ENSG00000169174,PCSK9,proprotein convertase subtilisin/kexin type 9,0.7311108649693407
+EFO_0001645,coronary artery disease,ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.7284538677066587
+EFO_0001645,coronary artery disease,ENSG00000061918,GUCY1B1,guanylate cyclase 1 soluble subunit beta 1,0.7011573957477377
+EFO_0001645,coronary artery disease,ENSG00000070018,LRP6,LDL receptor related protein 6,0.700073646290842
+EFO_0001645,coronary artery disease,ENSG00000152402,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,0.686085327734611
+EFO_0001645,coronary artery disease,ENSG00000172572,PDE3A,phosphodiesterase 3A,0.6791175767076879
+EFO_0001645,coronary artery disease,ENSG00000138735,PDE5A,phosphodiesterase 5A,0.6727654098170696
+EFO_0001645,coronary artery disease,ENSG00000087237,CETP,cholesteryl ester transfer protein,0.6411731183604208
+EFO_0001645,coronary artery disease,ENSG00000115252,PDE1A,phosphodiesterase 1A,0.6312557208683603
+EFO_0001645,coronary artery disease,ENSG00000175445,LPL,lipoprotein lipase,0.6271651890676966
+EFO_0001645,coronary artery disease,ENSG00000151067,CACNA1C,calcium voltage-gated channel subunit alpha1 C,0.6251140284181788
+EFO_0001645,coronary artery disease,ENSG00000134243,SORT1,sortilin 1,0.6221871361924657
+EFO_0001645,coronary artery disease,ENSG00000169313,P2RY12,purinergic receptor P2Y12,0.6160412861158235
+EFO_0001645,coronary artery disease,ENSG00000122194,PLG,plasminogen,0.6140290002796304
+EFO_0001645,coronary artery disease,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.6134347434911377
+EFO_0001645,coronary artery disease,ENSG00000157388,CACNA1D,calcium voltage-gated channel subunit alpha1 D,0.6071505658700942
+EFO_0001645,coronary artery disease,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.6067726470723895
+EFO_0001645,coronary artery disease,ENSG00000102001,CACNA1F,calcium voltage-gated channel subunit alpha1 F,0.6062266162333824
+EFO_0001645,coronary artery disease,ENSG00000081248,CACNA1S,calcium voltage-gated channel subunit alpha1 S,0.6062266162333824
+EFO_0001645,coronary artery disease,ENSG00000165029,ABCA1,ATP binding cassette subfamily A member 1,0.6058727082527022
+EFO_0001645,coronary artery disease,ENSG00000198670,LPA,lipoprotein(a),0.6044895737919522
+EFO_0001645,coronary artery disease,ENSG00000159640,ACE,angiotensin I converting enzyme,0.6019900356225758
+EFO_0001645,coronary artery disease,ENSG00000143126,CELSR2,cadherin EGF LAG seven-pass G-type receptor 2,0.5929289000214081
+EFO_0001645,coronary artery disease,ENSG00000084674,APOB,apolipoprotein B,0.5852093210326542
+EFO_0001645,coronary artery disease,ENSG00000126218,F10,coagulation factor X,0.5851372207373532
+EFO_0001645,coronary artery disease,ENSG00000140564,FURIN,"furin, paired basic amino acid cleaving enzyme",0.5841359385100533
+EFO_0001645,coronary artery disease,ENSG00000167772,ANGPTL4,angiopoietin like 4,0.5838844077177446
+EFO_0001645,coronary artery disease,ENSG00000165757,JCAD,junctional cadherin 5 associated,0.5838612295416842
+EFO_0001645,coronary artery disease,ENSG00000115414,FN1,fibronectin 1,0.5837273397683344
+EFO_0001645,coronary artery disease,ENSG00000184588,PDE4B,phosphodiesterase 4B,0.5786232706221476
+EFO_0001645,coronary artery disease,ENSG00000091732,ZC3HC1,zinc finger C3HC-type containing 1,0.5763072581232719
+EFO_0001645,coronary artery disease,ENSG00000182511,FES,"FES proto-oncogene, tyrosine kinase",0.5746577780738639
+EFO_0001645,coronary artery disease,ENSG00000073060,SCARB1,scavenger receptor class B member 1,0.5742649969089154
+EFO_0001645,coronary artery disease,ENSG00000107798,LIPA,"lipase A, lysosomal acid type",0.5740179697013894
+EFO_0001645,coronary artery disease,ENSG00000138675,FGF5,fibroblast growth factor 5,0.5736851375714489
+EFO_0001645,coronary artery disease,ENSG00000136378,ADAMTS7,ADAM metallopeptidase with thrombospondin type 1 motif 7,0.5722032216871135
+EFO_0001645,coronary artery disease,ENSG00000180210,F2,"coagulation factor II, thrombin",0.5718105457236878
+EFO_0001645,coronary artery disease,ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.5693224831535223
+EFO_0001645,coronary artery disease,ENSG00000259207,ITGB3,integrin subunit beta 3,0.5689271999222236
+EFO_0001645,coronary artery disease,ENSG00000152270,PDE3B,phosphodiesterase 3B,0.5674516797435406
+EFO_0001645,coronary artery disease,ENSG00000005961,ITGA2B,integrin subunit alpha 2b,0.5669006937222767
+EFO_0001645,coronary artery disease,ENSG00000186642,PDE2A,phosphodiesterase 2A,0.565208178841652
+EFO_0001645,coronary artery disease,ENSG00000118526,TCF21,transcription factor 21,0.5623914723339348
+EFO_0001645,coronary artery disease,ENSG00000135100,HNF1A,HNF1 homeobox A,0.5592974629710962
+EFO_0001645,coronary artery disease,ENSG00000197249,SERPINA1,serpin family A member 1,0.5589453605854485
+EFO_0001645,coronary artery disease,ENSG00000182218,HHIPL1,HHIP like 1,0.5587709658103673
+EFO_0001645,coronary artery disease,ENSG00000187498,COL4A1,collagen type IV alpha 1 chain,0.5584387811278501
+EFO_0001645,coronary artery disease,ENSG00000149257,SERPINH1,serpin family H member 1,0.5560032344980856
+EFO_0001645,coronary artery disease,ENSG00000113448,PDE4D,phosphodiesterase 4D,0.5553841015240167
+EFO_0001645,coronary artery disease,ENSG00000257017,HP,haptoglobin,0.5544560170074885
+EFO_0001645,coronary artery disease,ENSG00000073417,PDE8A,phosphodiesterase 8A,0.5527830399468631
+EFO_0001645,coronary artery disease,ENSG00000175003,SLC22A1,solute carrier family 22 member 1,0.5527400761879833
+EFO_0001645,coronary artery disease,ENSG00000065989,PDE4A,phosphodiesterase 4A,0.5497802036275499
+EFO_0001645,coronary artery disease,ENSG00000154678,PDE1C,phosphodiesterase 1C,0.5497750705740125
+EFO_0001645,coronary artery disease,ENSG00000205268,PDE7A,phosphodiesterase 7A,0.5496416111820431
+EFO_0001645,coronary artery disease,ENSG00000151617,EDNRA,endothelin receptor type A,0.5492919062920167
+EFO_0001645,coronary artery disease,ENSG00000133256,PDE6B,phosphodiesterase 6B,0.5492720313273584
+EFO_0001645,coronary artery disease,ENSG00000171408,PDE7B,phosphodiesterase 7B,0.5490872414000161
+EFO_0001645,coronary artery disease,ENSG00000156973,PDE6D,phosphodiesterase 6D,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000185527,PDE6G,phosphodiesterase 6G,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000123360,PDE1B,phosphodiesterase 1B,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000112541,PDE10A,phosphodiesterase 10A,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000095464,PDE6C,phosphodiesterase 6C,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000132915,PDE6A,phosphodiesterase 6A,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000160191,PDE9A,phosphodiesterase 9A,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000105650,PDE4C,phosphodiesterase 4C,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000139053,PDE6H,phosphodiesterase 6H,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000113231,PDE8B,phosphodiesterase 8B,0.5487176615453313
+EFO_0001645,coronary artery disease,ENSG00000212710,CTAGE1,cutaneous T cell lymphoma-associated antigen 1,0.5479296448220832
+EFO_0001645,coronary artery disease,ENSG00000112759,SLC29A1,solute carrier family 29 member 1 (Augustine blood group),0.5442217351838353
+EFO_0001645,coronary artery disease,ENSG00000165895,ARHGAP42,Rho GTPase activating protein 42,0.5440695614292697
+EFO_0001645,coronary artery disease,ENSG00000158186,MRAS,muscle RAS oncogene homolog,0.540669702158305
+EFO_0001645,coronary artery disease,ENSG00000134871,COL4A2,collagen type IV alpha 2 chain,0.540231734911761
+EFO_0001645,coronary artery disease,ENSG00000160712,IL6R,interleukin 6 receptor,0.5401747979641678
+EFO_0001645,coronary artery disease,ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.5394403330278215
+EFO_0001645,coronary artery disease,ENSG00000143921,ABCG8,ATP binding cassette subfamily G member 8,0.539171068026404
+EFO_0001645,coronary artery disease,ENSG00000110243,APOA5,apolipoprotein A5,0.5390891941988809
+EFO_0001645,coronary artery disease,ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.5371451014113502
+EFO_0001645,coronary artery disease,ENSG00000124762,CDKN1A,cyclin dependent kinase inhibitor 1A,0.536696460622074
+EFO_0001645,coronary artery disease,ENSG00000166033,HTRA1,HtrA serine peptidase 1,0.5345577509997796
+EFO_0001645,coronary artery disease,ENSG00000043591,ADRB1,adrenoceptor beta 1,0.5345449341485726
+EFO_0001645,coronary artery disease,ENSG00000079308,TNS1,tensin 1,0.530221944741099
+EFO_0001645,coronary artery disease,ENSG00000146477,SLC22A3,solute carrier family 22 member 3,0.5300837467480704
+EFO_0001645,coronary artery disease,ENSG00000112902,SEMA5A,semaphorin 5A,0.5296277728087097
+EFO_0001645,coronary artery disease,ENSG00000154305,MIA3,MIA SH3 domain ER export factor 3,0.5294622316787029
+EFO_0001645,coronary artery disease,ENSG00000175164,ABO,"ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase",0.5257966874030525
+EFO_0001645,coronary artery disease,ENSG00000112773,TENT5A,terminal nucleotidyltransferase 5A,0.5246011593916212
+EFO_0001645,coronary artery disease,ENSG00000101000,PROCR,protein C receptor,0.5230208394448361
+EFO_0001645,coronary artery disease,ENSG00000112273,HDGFL1,HDGF like 1,0.5223593434262601
+EFO_0001645,coronary artery disease,ENSG00000148737,TCF7L2,transcription factor 7 like 2,0.5221327337177586
+EFO_0001645,coronary artery disease,ENSG00000108219,TSPAN14,tetraspanin 14,0.5198108043376712
+EFO_0001645,coronary artery disease,ENSG00000169554,ZEB2,zinc finger E-box binding homeobox 2,0.5191324939594762
+EFO_0001645,coronary artery disease,ENSG00000162407,PLPP3,phospholipid phosphatase 3,0.5180470078141574
+EFO_0001645,coronary artery disease,ENSG00000112137,PHACTR1,phosphatase and actin regulator 1,0.518043134226085
+EFO_0001645,coronary artery disease,ENSG00000101665,SMAD7,SMAD family member 7,0.5177576800629599
+EFO_0001645,coronary artery disease,ENSG00000197081,IGF2R,insulin like growth factor 2 receptor,0.5173011975467319
+EFO_0001645,coronary artery disease,ENSG00000130479,MAP1S,microtubule associated protein 1S,0.5169758435589179
+EFO_0000519,glioblastoma multiforme,ENSG00000146648,EGFR,epidermal growth factor receptor,0.6766819696332494
+EFO_0000519,glioblastoma multiforme,ENSG00000141510,TP53,tumor protein p53,0.663764529322226
+EFO_0000519,glioblastoma multiforme,ENSG00000138413,IDH1,isocitrate dehydrogenase (NADP(+)) 1,0.663385274463953
+EFO_0000519,glioblastoma multiforme,ENSG00000171862,PTEN,phosphatase and tensin homolog,0.6402794695692889
+EFO_0000519,glioblastoma multiforme,ENSG00000085224,ATRX,ATRX chromatin remodeler,0.6192332929509824
+EFO_0000519,glioblastoma multiforme,ENSG00000139687,RB1,RB transcriptional corepressor 1,0.6152989310783387
+EFO_0000519,glioblastoma multiforme,ENSG00000196712,NF1,neurofibromin 1,0.6073853010790421
+EFO_0000519,glioblastoma multiforme,ENSG00000157764,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",0.5994828566683148
+EFO_0000519,glioblastoma multiforme,ENSG00000121879,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",0.5809297989426634
+EFO_0000519,glioblastoma multiforme,ENSG00000145675,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,0.5764605740448565
+EFO_0000519,glioblastoma multiforme,ENSG00000077782,FGFR1,fibroblast growth factor receptor 1,0.5728210233232756
+EFO_0000519,glioblastoma multiforme,ENSG00000164362,TERT,telomerase reverse transcriptase,0.5689312451657009
+EFO_0000519,glioblastoma multiforme,ENSG00000112715,VEGFA,vascular endothelial growth factor A,0.5521808736905833
+EFO_0000519,glioblastoma multiforme,ENSG00000134853,PDGFRA,platelet derived growth factor receptor alpha,0.5510512021358734
+EFO_0000519,glioblastoma multiforme,ENSG00000104687,GSR,glutathione-disulfide reductase,0.5424663560786489
+EFO_0000519,glioblastoma multiforme,ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.533522972418605
+EFO_0000519,glioblastoma multiforme,ENSG00000179295,PTPN11,protein tyrosine phosphatase non-receptor type 11,0.5125313180861406
+EFO_0000519,glioblastoma multiforme,ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.48409217523652653
+EFO_0000519,glioblastoma multiforme,ENSG00000163041,H3-3A,H3.3 histone A,0.4659408583581069
+EFO_0000519,glioblastoma multiforme,ENSG00000101972,STAG2,STAG2 cohesin complex component,0.4655699634262509
+EFO_0000519,glioblastoma multiforme,ENSG00000123080,CDKN2C,cyclin dependent kinase inhibitor 2C,0.4572518581028577
+EFO_0000519,glioblastoma multiforme,ENSG00000286522,H3C2,H3 clustered histone 2,0.4464028026127441
+EFO_0000519,glioblastoma multiforme,ENSG00000170836,PPM1D,"protein phosphatase, Mg2+/Mn2+ dependent 1D",0.44612523229611767
+EFO_0000519,glioblastoma multiforme,ENSG00000169032,MAP2K1,mitogen-activated protein kinase kinase 1,0.4456995234266683
+EFO_0000519,glioblastoma multiforme,ENSG00000126934,MAP2K2,mitogen-activated protein kinase kinase 2,0.44349582562164214
+EFO_0000519,glioblastoma multiforme,ENSG00000115170,ACVR1,activin A receptor type 1,0.44217909158557134
+EFO_0000519,glioblastoma multiforme,ENSG00000128052,KDR,kinase insert domain receptor,0.43950759114344523
+EFO_0000519,glioblastoma multiforme,ENSG00000157404,KIT,"KIT proto-oncogene, receptor tyrosine kinase",0.43633943526485713
+EFO_0000519,glioblastoma multiforme,ENSG00000117713,ARID1A,AT-rich interaction domain 1A,0.43464112201545463
+EFO_0000519,glioblastoma multiforme,ENSG00000213281,NRAS,"NRAS proto-oncogene, GTPase",0.42519061429466515
+EFO_0000519,glioblastoma multiforme,ENSG00000168702,LRP1B,LDL receptor related protein 1B,0.42119632357845616
+EFO_0000519,glioblastoma multiforme,ENSG00000096968,JAK2,Janus kinase 2,0.4164923612312436
+EFO_0000519,glioblastoma multiforme,ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.4160657329443147
+EFO_0000519,glioblastoma multiforme,ENSG00000099949,LZTR1,leucine zipper like post translational regulator 1,0.41266302449609615
+EFO_0000519,glioblastoma multiforme,ENSG00000113721,PDGFRB,platelet derived growth factor receptor beta,0.41173040326472865
+EFO_0000519,glioblastoma multiforme,ENSG00000171094,ALK,ALK receptor tyrosine kinase,0.4086669835669048
+EFO_0000519,glioblastoma multiforme,ENSG00000159216,RUNX1,RUNX family transcription factor 1,0.4074364664152474
+EFO_0000519,glioblastoma multiforme,ENSG00000105976,MET,"MET proto-oncogene, receptor tyrosine kinase",0.40596218522828165
+EFO_0000519,glioblastoma multiforme,ENSG00000083857,FAT1,FAT atypical cadherin 1,0.4046729727343042
+EFO_0000519,glioblastoma multiforme,ENSG00000169083,AR,androgen receptor,0.40407502017420793
+EFO_0000519,glioblastoma multiforme,ENSG00000184937,WT1,WT1 transcription factor,0.4034823827761991
+EFO_0000519,glioblastoma multiforme,ENSG00000037280,FLT4,fms related receptor tyrosine kinase 4,0.40238271985315033
+EFO_0000519,glioblastoma multiforme,ENSG00000100644,HIF1A,hypoxia inducible factor 1 subunit alpha,0.3991456877532732
+EFO_0000519,glioblastoma multiforme,ENSG00000183337,BCOR,BCL6 corepressor,0.38918961175019456
+EFO_0000519,glioblastoma multiforme,ENSG00000183765,CHEK2,checkpoint kinase 2,0.38109326398482585
+EFO_0000519,glioblastoma multiforme,ENSG00000178568,ERBB4,erb-b2 receptor tyrosine kinase 4,0.380066244640579
+EFO_0000519,glioblastoma multiforme,ENSG00000082898,XPO1,exportin 1,0.3763217230884075
+EFO_0000519,glioblastoma multiforme,ENSG00000091831,ESR1,estrogen receptor 1,0.372363635811171
+EFO_0000519,glioblastoma multiforme,ENSG00000163513,TGFBR2,transforming growth factor beta receptor 2,0.37158842367370487
+EFO_0000519,glioblastoma multiforme,ENSG00000149311,ATM,ATM serine/threonine kinase,0.3714910322822282
+EFO_0000519,glioblastoma multiforme,ENSG00000149948,HMGA2,high mobility group AT-hook 2,0.3697765362203088
+EFO_0000519,glioblastoma multiforme,ENSG00000133124,IRS4,insulin receptor substrate 4,0.3695798546847018
+EFO_0000519,glioblastoma multiforme,ENSG00000085276,MECOM,MDS1 and EVI1 complex locus,0.36954135678317207
+EFO_0000519,glioblastoma multiforme,ENSG00000184384,MAML2,mastermind like transcriptional coactivator 2,0.3678661290602393
+EFO_0000519,glioblastoma multiforme,ENSG00000138795,LEF1,lymphoid enhancer binding factor 1,0.36776770061182035
+EFO_0000519,glioblastoma multiforme,ENSG00000157168,NRG1,neuregulin 1,0.3675964713363858
+EFO_0000519,glioblastoma multiforme,ENSG00000181555,SETD2,"SET domain containing 2, histone lysine methyltransferase",0.3673756848163501
+EFO_0000519,glioblastoma multiforme,ENSG00000151702,FLI1,"Fli-1 proto-oncogene, ETS transcription factor",0.36664178108922535
+EFO_0000519,glioblastoma multiforme,ENSG00000139083,ETV6,ETS variant transcription factor 6,0.3655741736958087
+EFO_0000519,glioblastoma multiforme,ENSG00000171735,CAMTA1,calmodulin binding transcription activator 1,0.36303093617289295
+EFO_0000519,glioblastoma multiforme,ENSG00000104365,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta,0.3628359256662082
+EFO_0000519,glioblastoma multiforme,ENSG00000109670,FBXW7,F-box and WD repeat domain containing 7,0.36262231438873305
+EFO_0000519,glioblastoma multiforme,ENSG00000184634,MED12,mediator complex subunit 12,0.3620642015439771
+EFO_0000519,glioblastoma multiforme,ENSG00000097007,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",0.36076725447341573
+EFO_0000519,glioblastoma multiforme,ENSG00000197157,SND1,staphylococcal nuclease and tudor domain containing 1,0.3607051988358469
+EFO_0000519,glioblastoma multiforme,ENSG00000131759,RARA,retinoic acid receptor alpha,0.36000642415265566
+EFO_0000519,glioblastoma multiforme,ENSG00000165025,SYK,spleen associated tyrosine kinase,0.3595986958358328
+EFO_0000519,glioblastoma multiforme,ENSG00000164330,EBF1,EBF transcription factor 1,0.3592778162353657
+EFO_0000519,glioblastoma multiforme,ENSG00000138376,BARD1,BRCA1 associated RING domain 1,0.3590621532399175
+EFO_0000519,glioblastoma multiforme,ENSG00000068078,FGFR3,fibroblast growth factor receptor 3,0.3574568079047971
+EFO_0000519,glioblastoma multiforme,ENSG00000137812,KNL1,kinetochore scaffold 1,0.3563512060219008
+EFO_0000519,glioblastoma multiforme,ENSG00000112531,QKI,"QKI, KH domain containing RNA binding",0.3560554632697465
+EFO_0000519,glioblastoma multiforme,ENSG00000070371,CLTCL1,clathrin heavy chain like 1,0.3556733422402751
+EFO_0000519,glioblastoma multiforme,ENSG00000138448,ITGAV,integrin subunit alpha V,0.3551304665346503
+EFO_0000519,glioblastoma multiforme,ENSG00000165699,TSC1,TSC complex subunit 1,0.35460573445992355
+EFO_0000519,glioblastoma multiforme,ENSG00000196090,PTPRT,protein tyrosine phosphatase receptor type T,0.3545984903701891
+EFO_0000519,glioblastoma multiforme,ENSG00000102755,FLT1,fms related receptor tyrosine kinase 1,0.35410572214361885
+EFO_0000519,glioblastoma multiforme,ENSG00000160867,FGFR4,fibroblast growth factor receptor 4,0.3539942479995689
+EFO_0000519,glioblastoma multiforme,ENSG00000121966,CXCR4,C-X-C motif chemokine receptor 4,0.3538758363394821
+EFO_0000519,glioblastoma multiforme,ENSG00000196498,NCOR2,nuclear receptor corepressor 2,0.35353443948980884
+EFO_0000519,glioblastoma multiforme,ENSG00000139618,BRCA2,BRCA2 DNA repair associated,0.3531427752552712
+EFO_0000519,glioblastoma multiforme,ENSG00000127329,PTPRB,protein tyrosine phosphatase receptor type B,0.3529436281703529
+EFO_0000519,glioblastoma multiforme,ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,0.35278578677408134
+EFO_0000519,glioblastoma multiforme,ENSG00000168036,CTNNB1,catenin beta 1,0.35277202274945807
+EFO_0000519,glioblastoma multiforme,ENSG00000150457,LATS2,large tumor suppressor kinase 2,0.35268697549348854
+EFO_0000519,glioblastoma multiforme,ENSG00000132170,PPARG,peroxisome proliferator activated receptor gamma,0.35258957080832504
+EFO_0000519,glioblastoma multiforme,ENSG00000147050,KDM6A,lysine demethylase 6A,0.35250119946471936
+EFO_0000519,glioblastoma multiforme,ENSG00000143549,TPM3,tropomyosin 3,0.35215822796686747
+EFO_0000519,glioblastoma multiforme,ENSG00000018408,WWTR1,WW domain containing transcription regulator 1,0.35164182123646404
+EFO_0000519,glioblastoma multiforme,ENSG00000073803,MAP3K13,mitogen-activated protein kinase kinase kinase 13,0.35148584096576324
+EFO_0000519,glioblastoma multiforme,ENSG00000105639,JAK3,Janus kinase 3,0.3513341307167723
+EFO_0000519,glioblastoma multiforme,ENSG00000175643,RMI2,RecQ mediated genome instability 2,0.35091607202312436
+EFO_0000519,glioblastoma multiforme,ENSG00000101115,SALL4,spalt like transcription factor 4,0.350907284084154
+EFO_0000519,glioblastoma multiforme,ENSG00000137693,YAP1,Yes1 associated transcriptional regulator,0.35025449529003255
+EFO_0000519,glioblastoma multiforme,ENSG00000039068,CDH1,cadherin 1,0.35020681230955564
+EFO_0000519,glioblastoma multiforme,ENSG00000185630,PBX1,PBX homeobox 1,0.3501871784208295
+EFO_0000519,glioblastoma multiforme,ENSG00000049618,ARID1B,AT-rich interaction domain 1B,0.3501230152516134
+EFO_0000519,glioblastoma multiforme,ENSG00000148737,TCF7L2,transcription factor 7 like 2,0.35009747359623666
+EFO_0000519,glioblastoma multiforme,ENSG00000116044,NFE2L2,NFE2 like bZIP transcription factor 2,0.3499768526844418
+EFO_0000519,glioblastoma multiforme,ENSG00000144218,AFF3,ALF transcription elongation factor 3,0.3498327924046152
+EFO_0003767,inflammatory bowel disease,ENSG00000167207,NOD2,nucleotide binding oligomerization domain containing 2,0.874691454984459
+EFO_0003767,inflammatory bowel disease,ENSG00000110324,IL10RA,interleukin 10 receptor subunit alpha,0.8305834020666646
+EFO_0003767,inflammatory bowel disease,ENSG00000243646,IL10RB,interleukin 10 receptor subunit beta,0.819632576669919
+EFO_0003767,inflammatory bowel disease,ENSG00000136634,IL10,interleukin 10,0.7798747409659188
+EFO_0003767,inflammatory bowel disease,ENSG00000151694,ADAM17,ADAM metallopeptidase domain 17,0.7778991995702533
+EFO_0003767,inflammatory bowel disease,ENSG00000113302,IL12B,interleukin 12B,0.7548895613382313
+EFO_0003767,inflammatory bowel disease,ENSG00000115232,ITGA4,integrin subunit alpha 4,0.7377426302644366
+EFO_0003767,inflammatory bowel disease,ENSG00000162594,IL23R,interleukin 23 receptor,0.7125660275071296
+EFO_0003767,inflammatory bowel disease,ENSG00000163362,INAVA,innate immunity activator,0.6889966908215073
+EFO_0003767,inflammatory bowel disease,ENSG00000096968,JAK2,Janus kinase 2,0.6813382317441988
+EFO_0003767,inflammatory bowel disease,ENSG00000105397,TYK2,tyrosine kinase 2,0.6549053604420418
+EFO_0003767,inflammatory bowel disease,ENSG00000138684,IL21,interleukin 21,0.6526787493598994
+EFO_0003767,inflammatory bowel disease,ENSG00000146648,EGFR,epidermal growth factor receptor,0.6523667414928247
+EFO_0003767,inflammatory bowel disease,ENSG00000232810,TNF,tumor necrosis factor,0.6450660866570581
+EFO_0003767,inflammatory bowel disease,ENSG00000110944,IL23A,interleukin 23 subunit alpha,0.6442306822401354
+EFO_0003767,inflammatory bowel disease,ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.6342015694650899
+EFO_0003767,inflammatory bowel disease,ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.6330365038160013
+EFO_0003767,inflammatory bowel disease,ENSG00000132170,PPARG,peroxisome proliferator activated receptor gamma,0.6318634353850645
+EFO_0003767,inflammatory bowel disease,ENSG00000128604,IRF5,interferon regulatory factor 5,0.6279394905933094
+EFO_0003767,inflammatory bowel disease,ENSG00000139626,ITGB7,integrin subunit beta 7,0.6266788698729533
+EFO_0003767,inflammatory bowel disease,ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.6265007838342452
+EFO_0003767,inflammatory bowel disease,ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.6210112336103492
+EFO_0003767,inflammatory bowel disease,ENSG00000085978,ATG16L1,autophagy related 16 like 1,0.6202213767453463
+EFO_0003767,inflammatory bowel disease,ENSG00000012779,ALOX5,arachidonate 5-lipoxygenase,0.6141751028931276
+EFO_0003767,inflammatory bowel disease,ENSG00000168811,IL12A,interleukin 12A,0.6070203704932464
+EFO_0003767,inflammatory bowel disease,ENSG00000105639,JAK3,Janus kinase 3,0.6063133433271185
+EFO_0003767,inflammatory bowel disease,ENSG00000170989,S1PR1,sphingosine-1-phosphate receptor 1,0.5922368473756859
+EFO_0003767,inflammatory bowel disease,ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase,0.5918405587232752
+EFO_0003767,inflammatory bowel disease,ENSG00000178623,GPR35,G protein-coupled receptor 35,0.5902849302944625
+EFO_0003767,inflammatory bowel disease,ENSG00000237693,IRGM,immunity related GTPase M,0.5884566951332516
+EFO_0003767,inflammatory bowel disease,ENSG00000204390,HSPA1L,heat shock protein family A (Hsp70) member 1 like,0.586216113088093
+EFO_0003767,inflammatory bowel disease,ENSG00000181634,TNFSF15,TNF superfamily member 15,0.5744193595324183
+EFO_0003767,inflammatory bowel disease,ENSG00000180739,S1PR5,sphingosine-1-phosphate receptor 5,0.5723798638783243
+EFO_0003767,inflammatory bowel disease,ENSG00000143226,FCGR2A,Fc gamma receptor IIa,0.5704601901561749
+EFO_0003767,inflammatory bowel disease,ENSG00000168610,STAT3,signal transducer and activator of transcription 3,0.5686753611083556
+EFO_0003767,inflammatory bowel disease,ENSG00000057657,PRDM1,PR/SET domain 1,0.5667804613331537
+EFO_0003767,inflammatory bowel disease,ENSG00000150093,ITGB1,integrin subunit beta 1,0.5647915478558886
+EFO_0003767,inflammatory bowel disease,ENSG00000119919,NKX2-3,NK2 homeobox 3,0.5632073893238397
+EFO_0003767,inflammatory bowel disease,ENSG00000179630,LACC1,laccase domain containing 1,0.5626576058377183
+EFO_0003767,inflammatory bowel disease,ENSG00000101017,CD40,CD40 molecule,0.5602763935893409
+EFO_0003767,inflammatory bowel disease,ENSG00000173531,MST1,macrophage stimulating 1,0.5589668193945153
+EFO_0003767,inflammatory bowel disease,ENSG00000125910,S1PR4,sphingosine-1-phosphate receptor 4,0.5563746024409418
+EFO_0003767,inflammatory bowel disease,ENSG00000178828,RNF186,ring finger protein 186,0.5532275774905653
+EFO_0003767,inflammatory bowel disease,ENSG00000134242,PTPN22,protein tyrosine phosphatase non-receptor type 22,0.5508251658919199
+EFO_0003767,inflammatory bowel disease,ENSG00000169914,OTUD3,OTU deubiquitinase 3,0.5490008476973597
+EFO_0003767,inflammatory bowel disease,ENSG00000166501,PRKCB,protein kinase C beta,0.5476217179065377
+EFO_0003767,inflammatory bowel disease,ENSG00000159128,IFNGR2,interferon gamma receptor 2,0.5471605098718364
+EFO_0003767,inflammatory bowel disease,ENSG00000136630,HLX,H2.0 like homeobox,0.5447247683286137
+EFO_0003767,inflammatory bowel disease,ENSG00000115009,CCL20,C-C motif chemokine ligand 20,0.543528648944727
+EFO_0003767,inflammatory bowel disease,ENSG00000100906,NFKBIA,NFKB inhibitor alpha,0.5428787408682848
+EFO_0003767,inflammatory bowel disease,ENSG00000100368,CSF2RB,colony stimulating factor 2 receptor subunit beta,0.5422406437693451
+EFO_0003767,inflammatory bowel disease,ENSG00000107968,MAP3K8,mitogen-activated protein kinase kinase kinase 8,0.5417700950359827
+EFO_0003767,inflammatory bowel disease,ENSG00000121281,ADCY7,adenylate cyclase 7,0.5400037311469176
+EFO_0003767,inflammatory bowel disease,ENSG00000175354,PTPN2,protein tyrosine phosphatase non-receptor type 2,0.5384306929458808
+EFO_0003767,inflammatory bowel disease,ENSG00000162434,JAK1,Janus kinase 1,0.5379283834829759
+EFO_0003767,inflammatory bowel disease,ENSG00000166949,SMAD3,SMAD family member 3,0.5374866323743528
+EFO_0003767,inflammatory bowel disease,ENSG00000013725,CD6,CD6 molecule,0.5363765334848017
+EFO_0003767,inflammatory bowel disease,ENSG00000091140,DLD,dihydrolipoamide dehydrogenase,0.5337551605623495
+EFO_0003767,inflammatory bowel disease,ENSG00000116288,PARK7,Parkinsonism associated deglycase,0.5325553017798424
+EFO_0003767,inflammatory bowel disease,ENSG00000140030,GPR65,G protein-coupled receptor 65,0.5325274670391843
+EFO_0003767,inflammatory bowel disease,ENSG00000164093,PITX2,paired like homeodomain 2,0.5316680968794404
+EFO_0003767,inflammatory bowel disease,ENSG00000091138,SLC26A3,solute carrier family 26 member 3,0.5299695182396013
+EFO_0003767,inflammatory bowel disease,ENSG00000142224,IL19,interleukin 19,0.5254972433993294
+EFO_0003767,inflammatory bowel disease,ENSG00000162542,TMCO4,transmembrane and coiled-coil domains 4,0.5217515536604135
+EFO_0003767,inflammatory bowel disease,ENSG00000164691,TAGAP,T cell activation RhoGTPase activating protein,0.5207408172156842
+EFO_0003767,inflammatory bowel disease,ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.5204166118776213
+EFO_0003767,inflammatory bowel disease,ENSG00000182095,TNRC18,trinucleotide repeat containing 18,0.5203782335336391
+EFO_0003767,inflammatory bowel disease,ENSG00000137275,RIPK1,receptor interacting serine/threonine kinase 1,0.5190651964737759
+EFO_0003767,inflammatory bowel disease,ENSG00000187796,CARD9,caspase recruitment domain family member 9,0.5155030065650287
+EFO_0003767,inflammatory bowel disease,ENSG00000132274,TRIM22,tripartite motif containing 22,0.5153784754259465
+EFO_0003767,inflammatory bowel disease,ENSG00000125347,IRF1,interferon regulatory factor 1,0.5149186352495196
+EFO_0003767,inflammatory bowel disease,ENSG00000213047,DENND1B,DENN domain containing 1B,0.5112886628068187
+EFO_0003767,inflammatory bowel disease,ENSG00000116833,NR5A2,nuclear receptor subfamily 5 group A member 2,0.5110167551686081
+EFO_0003767,inflammatory bowel disease,ENSG00000134330,IAH1,isoamyl acetate hydrolyzing esterase 1 (putative),0.5103733589324178
+EFO_0003767,inflammatory bowel disease,ENSG00000075426,FOSL2,"FOS like 2, AP-1 transcription factor subunit",0.509771056514532
+EFO_0003767,inflammatory bowel disease,ENSG00000125571,IL37,interleukin 37,0.5093276274490163
+EFO_0003767,inflammatory bowel disease,ENSG00000131507,NDFIP1,Nedd4 family interacting protein 1,0.507750936049324
+EFO_0003767,inflammatory bowel disease,ENSG00000165025,SYK,spleen associated tyrosine kinase,0.5058125039369368
+EFO_0003767,inflammatory bowel disease,ENSG00000020633,RUNX3,RUNX family transcription factor 3,0.5055618919255327
+EFO_0003767,inflammatory bowel disease,ENSG00000118503,TNFAIP3,TNF alpha induced protein 3,0.5048965609766825
+EFO_0003767,inflammatory bowel disease,ENSG00000130876,SLC7A10,solute carrier family 7 member 10,0.5047005130436365
+EFO_0003767,inflammatory bowel disease,ENSG00000168769,TET2,tet methylcytosine dioxygenase 2,0.5039845923415168
+EFO_0003767,inflammatory bowel disease,ENSG00000163295,ALPI,"alkaline phosphatase, intestinal",0.503154020710622
+EFO_0003767,inflammatory bowel disease,ENSG00000108219,TSPAN14,tetraspanin 14,0.5025293979089253
+EFO_0003767,inflammatory bowel disease,ENSG00000197943,PLCG2,phospholipase C gamma 2,0.5021638934135345
+EFO_0003767,inflammatory bowel disease,ENSG00000197208,SLC22A4,solute carrier family 22 member 4,0.5012455204621568
+EFO_0003767,inflammatory bowel disease,ENSG00000189067,LITAF,lipopolysaccharide induced TNF factor,0.501177139155816
+EFO_0003767,inflammatory bowel disease,ENSG00000177311,ZBTB38,zinc finger and BTB domain containing 38,0.4998470139286784
+EFO_0003767,inflammatory bowel disease,ENSG00000115267,IFIH1,interferon induced with helicase C domain 1,0.4994255405468377
+EFO_0003767,inflammatory bowel disease,ENSG00000081985,IL12RB2,interleukin 12 receptor subunit beta 2,0.4993760448840366
+EFO_0003767,inflammatory bowel disease,ENSG00000100365,NCF4,neutrophil cytosolic factor 4,0.4961149084870074
+EFO_0003767,inflammatory bowel disease,ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.4958977441149522
+EFO_0003767,inflammatory bowel disease,ENSG00000145996,CDKAL1,CDKAL1 threonylcarbamoyladenosine tRNA methylthiotransferase,0.4940026695617543
+EFO_0003767,inflammatory bowel disease,ENSG00000145623,OSMR,oncostatin M receptor,0.4938551066744186
+EFO_0003767,inflammatory bowel disease,ENSG00000095110,NXPE1,neurexophilin and PC-esterase domain family member 1,0.4929326774140064
+EFO_0003767,inflammatory bowel disease,ENSG00000185811,IKZF1,IKAROS family zinc finger 1,0.49281352143284707
+EFO_0003767,inflammatory bowel disease,ENSG00000162927,PUS10,pseudouridine synthase 10,0.4925404047475276
+EFO_0003767,inflammatory bowel disease,ENSG00000108691,CCL2,C-C motif chemokine ligand 2,0.49178693129906426
+EFO_0003767,inflammatory bowel disease,ENSG00000054983,GALC,galactosylceramidase,0.49125823254048073
+EFO_0003767,inflammatory bowel disease,ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.49119085883038616
