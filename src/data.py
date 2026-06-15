@@ -26,6 +26,9 @@ class GraphBundle:
     disease_to_idx: dict[str, int]
     gene_to_idx: dict[str, int]
     drug_to_idx: dict[str, int]
+    drug_names: dict[str, str]
+    disease_names: dict[str, str]
+    drug_name_to_id: dict[str, str]
 
     @property
     def idx_to_disease(self) -> dict[int, str]:
@@ -35,6 +38,21 @@ class GraphBundle:
     def idx_to_drug(self) -> dict[int, str]:
         return {i: d for d, i in self.drug_to_idx.items()}
 
+    def resolve_drug_id(self, query: str) -> str:
+        """Resolve a ChEMBL ID or drug name to a graph drug_id."""
+        token = query.strip()
+        if not token:
+            raise ValueError("Drug name cannot be empty.")
+
+        chembl_id = token.upper()
+        if chembl_id in self.drug_to_idx:
+            return chembl_id
+
+        drug_id = self.drug_name_to_id.get(token.lower())
+        if drug_id is not None:
+            return drug_id
+
+        raise ValueError(f"Unknown drug: {query!r}")
 
 def load_tables(data_dir: Path = DEFAULT_DATA_DIR) -> dict[str, pd.DataFrame]:
     """Read the four edge-list CSVs from disk."""
@@ -68,6 +86,35 @@ def build_node_maps(tables: dict[str, pd.DataFrame]) -> tuple[list[str], list[st
     return disease_ids, gene_ids, drug_ids
 
 
+def build_entity_names(
+    tables: dict[str, pd.DataFrame],
+) -> tuple[dict[str, str], dict[str, str], dict[str, str]]:
+    """Build drug/disease display names and a case-insensitive drug name index."""
+    drug_names: dict[str, str] = {}
+    for df in (tables["drug_gene"], tables["drug_disease"]):
+        if "drug_name" not in df.columns:
+            continue
+        for drug_id, drug_name in zip(df["drug_id"], df["drug_name"]):
+            if pd.notna(drug_id) and pd.notna(drug_name) and drug_id not in drug_names:
+                drug_names[str(drug_id)] = str(drug_name)
+
+    disease_names: dict[str, str] = {}
+    for df in (tables["disease_gene"], tables["drug_disease"]):
+        if "disease_name" not in df.columns:
+            continue
+        for disease_id, disease_name in zip(df["disease_id"], df["disease_name"]):
+            if pd.notna(disease_id) and pd.notna(disease_name) and disease_id not in disease_names:
+                disease_names[str(disease_id)] = str(disease_name)
+
+    drug_name_to_id: dict[str, str] = {}
+    for drug_id, drug_name in drug_names.items():
+        key = drug_name.lower()
+        if key not in drug_name_to_id:
+            drug_name_to_id[key] = drug_id
+
+    return drug_names, disease_names, drug_name_to_id
+
+
 def df_to_edge_index(
     df: pd.DataFrame,
     src_col: str,
@@ -99,6 +146,7 @@ def build_graph(
     disease_to_idx = {d: i for i, d in enumerate(disease_ids)}
     gene_to_idx = {g: i for i, g in enumerate(gene_ids)}
     drug_to_idx = {d: i for i, d in enumerate(drug_ids)}
+    drug_names, disease_names, drug_name_to_id = build_entity_names(tables)
 
     data = HeteroData()
     data["disease"].num_nodes = len(disease_ids)
@@ -143,6 +191,9 @@ def build_graph(
         disease_to_idx=disease_to_idx,
         gene_to_idx=gene_to_idx,
         drug_to_idx=drug_to_idx,
+        drug_names=drug_names,
+        disease_names=disease_names,
+        drug_name_to_id=drug_name_to_id,
     )
 
 
